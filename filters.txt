@@ -8,6 +8,8 @@ acomics.ru###contentSide > .inner > div:nth-of-type(2)
 habr.com##.dfp-slot
 habr.com##.bmenu_inner
 
+yandex.ru##.serp-adv-item
+
 # spam
 conceau.co
 crossout.net
