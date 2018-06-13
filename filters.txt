@@ -9,11 +9,3 @@ habr.com##.dfp-slot
 habr.com##.bmenu_inner
 
 yandex.ru##.serp-adv-item
-
-# spam
-conceau.co
-crossout.net
-have-fun.online
-totalwararena.ru
-vprikole.ru
-worldoftanks.ru
