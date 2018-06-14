@@ -8,4 +8,6 @@ acomics.ru###contentSide > .inner > div:nth-of-type(2)
 habr.com##.dfp-slot
 habr.com##.bmenu_inner
 
+yastatic.net/share2/
+
 yandex.ru##.serp-adv-item
