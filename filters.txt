@@ -1,19 +1,10 @@
 ! Title: My uBlock filters
 ! Expires: 7 days
-! Description: My filters
 
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
-
 habr.com##.dfp-slot
 habr.com##.bmenu_inner
-
+teinon.net/stats/
 yandex.ru##.serp-adv-item
-
-# spam
-conceau.co
-crossout.net
-have-fun.online
-totalwararena.ru
-vprikole.ru
-worldoftanks.ru
+yastatic.net/share2/
