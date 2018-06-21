@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+set -e
+ping -c 4 8.8.8.8 > /dev/null
+
 FILTER='/var/www/html/advblock.txt'
 TMP="$FILTER.tmp"
 
