@@ -1,9 +1,15 @@
 ! Title: My uBlock filters
 ! Expires: 7 days
 
+! == hosts ==
+metrika-informer.com
+
+! == css ==
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
 habr.com##.dfp-slot
 habr.com##.bmenu_inner
-metrika-informer.com
+kp.ru###popapIsBlockedAd
+kp.ru###MailSubscriptionPopupEl
+kp.ru##.pushNotification
 yandex.ru##.serp-adv-item
