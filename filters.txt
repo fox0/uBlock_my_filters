@@ -1,15 +1,20 @@
 ! Title: My uBlock filters
 ! Expires: 7 days
 
-! == hosts ==
+! == urls ==
 metrika-informer.com
+teinon.net/stats/
+ponyfiction.org/notifications/unread_count/
+/w/extensions/Popups/resources/hovercard.svg
 
 ! == css ==
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
 habr.com##.dfp-slot
 habr.com##.bmenu_inner
+ficbook.net##.in-text-ad-left
 kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
 kp.ru##.pushNotification
+rifme.net##.greysmall
 yandex.ru##.serp-adv-item
