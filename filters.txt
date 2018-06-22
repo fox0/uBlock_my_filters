@@ -3,6 +3,7 @@
 
 ! == urls ==
 adschoom.com
+apis.google.com/js/plusone.js
 conceau.co
 metrika-informer.com
 teinon.net/stats/
