@@ -5,6 +5,7 @@
 adschoom.com
 apis.google.com/js/plusone.js
 conceau.co
+crossout.net
 metrika-informer.com
 teinon.net/stats/
 ponyfiction.org/notifications/unread_count/
