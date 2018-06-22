@@ -20,6 +20,7 @@ kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
 kp.ru##.pushNotification
 readcomiconline.to##.top_page_alert
+readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
