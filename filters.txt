@@ -12,6 +12,9 @@ teinon.net/stats/
 ponyfiction.org/notifications/unread_count/
 /w/extensions/Popups/resources/hovercard.svg
 
+! == common css ==
+##.ytp-ce-element
+
 ! == css ==
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
