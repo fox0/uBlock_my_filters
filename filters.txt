@@ -3,6 +3,7 @@
 
 ! == hosts ==
 ||adschoom.com^
+||have-fun.online^
 ||metrika-informer.com^
 ||worldoftanks.ru^
 
