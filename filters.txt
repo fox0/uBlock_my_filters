@@ -2,14 +2,14 @@
 ! Expires: 1 day
 
 ! == hosts ==
-adschoom.com
-metrika-informer.com
-worldoftanks.ru
+||adschoom.com^
+||metrika-informer.com^
+||worldoftanks.ru^
 
 ! == urls ==
-apis.google.com/js/plusone.js
-teinon.net/stats/
-ponyfiction.org/notifications/unread_count/
+||apis.google.com/js/plusone.js
+||teinon.net/stats/
+||ponyfiction.org/notifications/unread_count/
 /w/extensions/Popups/resources/hovercard.svg
 
 ! == common css ==
