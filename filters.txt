@@ -33,3 +33,4 @@ readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
 yandex.ru##.serp-adv-item
+youtube.com###offer-module
