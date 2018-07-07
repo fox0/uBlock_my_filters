@@ -23,6 +23,7 @@ crazygames.com##div.leaderboard.midPanel
 habr.com##.dfp-slot
 habr.com##.bmenu_inner
 ficbook.net##.in-text-ad-left
+fimfiction.net##.advert.right
 kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
 kp.ru##.pushNotification
