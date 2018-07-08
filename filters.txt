@@ -3,6 +3,7 @@
 
 ! == hosts ==
 ||adschoom.com^
+||appmetrica.yandex.com^
 ||conceau.co^
 ||have-fun.online^
 ||metrika-informer.com^
@@ -15,6 +16,7 @@
 ||wikifur.com/w/extensions/Popups/resources/hovercard.svg
 
 ! == common css ==
+##[href*="appmetrica.yandex.com"]
 ##.ytp-ce-element
 
 ! == css ==
