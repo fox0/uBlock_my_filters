@@ -3,6 +3,7 @@
 
 ! == hosts ==
 ||adschoom.com^
+||conceau.co^
 ||have-fun.online^
 ||metrika-informer.com^
 ||worldoftanks.ru^
@@ -11,7 +12,7 @@
 ||apis.google.com/js/plusone.js
 ||teinon.net/stats/
 ||ponyfiction.org/notifications/unread_count/
-/w/extensions/Popups/resources/hovercard.svg
+||wikifur.com/w/extensions/Popups/resources/hovercard.svg
 
 ! == common css ==
 ##.ytp-ce-element
