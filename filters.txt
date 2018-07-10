@@ -34,6 +34,8 @@ kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
 kp.ru##.pushNotification
 livejournal.com##.ng-scope.discoverytimes-noiframe
+pravoved.ru##.prvd-form.prvd-qp-entry-point
+pravoved.ru##.prvd-qp-popup-container
 readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
