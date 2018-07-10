@@ -40,8 +40,10 @@ kp.ru##.pushNotification
 
 livejournal.com##.ng-scope.discoverytimes-noiframe
 
+pravoved.ru##.appstore-section__question-list
 pravoved.ru##.fixedHead
 pravoved.ru##.leadAside
+pravoved.ru##.topPromo
 pravoved.ru##.prvd-form.prvd-qp-entry-point
 pravoved.ru##.prvd-lawyer-service
 pravoved.ru##.prvd-qp-popup-container
