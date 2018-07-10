@@ -22,25 +22,36 @@
 ! == css ==
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
+
 crazygames.com##div.leaderboard.midPanel
+
 habr.com##.bmenu_inner
 habr.com##.dfp-slot
 habr.com##.promo-block
 habr.com##.post-share
 habr.com##.megapost-teasers
+
 ficbook.net##.in-text-ad-left
 fimfiction.net##.advert.right
+
 kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
 kp.ru##.pushNotification
+
 livejournal.com##.ng-scope.discoverytimes-noiframe
+
 pravoved.ru##.fixedHead
+pravoved.ru##.leadAside
 pravoved.ru##.prvd-form.prvd-qp-entry-point
+pravoved.ru##.prvd-lawyer-service
 pravoved.ru##.prvd-qp-popup-container
+pravoved.ru##.qsv2-post-question
+
 readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
+
 rifme.net##.greysmall
 yandex.ru##.serp-adv-item
 youtube.com###offer-module
