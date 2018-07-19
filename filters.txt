@@ -14,7 +14,10 @@
 ||apis.google.com/js/plusone.js
 ||teinon.net/stats/
 ||ponyfiction.org/notifications/unread_count/
-||wikifur.com/w/extensions/Popups/resources/hovercard.svg
+! mediawiki
+/w/extensions/Popups/resources/hovercard.svg
+! dokuwiki
+/lib/exe/indexer.php
 
 ! == common css ==
 ##[href*="appmetrica.yandex.com"]
