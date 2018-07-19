@@ -45,7 +45,8 @@ readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
-translate.google.com##.gb_g
 translate.google.com###gt-promo-lr
+translate.google.com##.gb_g
+tumblr.com##.road-block-wrapper
 yandex.ru##.serp-adv-item
 youtube.com###offer-module
