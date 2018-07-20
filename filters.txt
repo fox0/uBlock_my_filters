@@ -12,6 +12,8 @@
 
 ! == urls ==
 ||apis.google.com/js/plusone.js
+||fobook.ru/pop.php
+||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
 ||teinon.net/stats/
 ||ponyfiction.org/notifications/unread_count/
 ! mediawiki
