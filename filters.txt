@@ -49,8 +49,8 @@ readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
 ru.aliexpress.com##.ui-newuser-layer-dialog
 ru.aliexpress.com##.ui-mask
-translate.google.com###gt-promo-lr
-translate.google.com##.gb_g
+translate.google.com,translate.google.ru###gt-promo-lr
+translate.google.com,translate.google.ru##.gb_g
 tumblr.com##.road-block-wrapper
 yandex.ru##.serp-adv-item
 youtube.com###offer-module
