@@ -28,6 +28,8 @@
 ! == css ==
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
+aliexpress.com##.ui-newuser-layer-dialog
+aliexpress.com##.ui-mask
 crazygames.com##div.leaderboard.midPanel
 habr.com##.bmenu_inner
 habr.com##.dfp-slot
@@ -47,8 +49,6 @@ readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
-ru.aliexpress.com##.ui-newuser-layer-dialog
-ru.aliexpress.com##.ui-mask
 ru.wikipedia.org###centralNotice
 translate.google.com,translate.google.ru###gt-promo-lr
 translate.google.com,translate.google.ru##.gb_g
