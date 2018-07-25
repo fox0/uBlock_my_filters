@@ -9,6 +9,7 @@
 ||heroeswm.ru^
 ||metrika-informer.com^
 ||mostpicland.com^
+||sovetnik.market.yandex.ru^
 ||worldoftanks.ru^
 
 ! == urls ==
@@ -20,6 +21,7 @@
 ||facebook.com/plugins/page.php
 ||google.com/buzz/api/button.js
 ||gstatic.com/docs/common/cleardot.gif
+||habr.com/viewcount/
 ||herokuapp.com/socket.io/
 ||teinon.net/stats/
 ||twitter.com/widgets.js
@@ -31,6 +33,7 @@
 ||youtube.com/subscribe_widget
 ||vk.com/js/api/openapi.js
 ||vkontakte.ru/js/api/share.js
+||youtube.com/youtubei/v1/log_event?
 
 ! == css ==
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
