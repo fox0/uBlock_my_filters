@@ -55,7 +55,7 @@ habr.com##.megapost-teasers
 hostingkartinok.com##.cc_banner-wrapper
 ficbook.net##.in-text-ad-left
 fimfiction.net##.advert.right
-fimfiction.net##.sidebar-responsive-patreon
+fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
 kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
