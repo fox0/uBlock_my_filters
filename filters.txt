@@ -15,8 +15,19 @@
 ||apis.google.com/js/plusone.js
 ||fobook.ru/pop.php
 ||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
+||facebook.net/ru_RU/all.js
+||google.com/buzz/api/button.js
 ||teinon.net/stats/
+||twitter.com/widgets.js
+||mail.ru/js/share/
 ||ponyfiction.org/notifications/unread_count/
+||ok.ru/connect.js
+||linkedin.com/in.js
+||userapi.com/js/api/openapi.js
+||youtube.com/subscribe_widget
+||vk.com/js/api/openapi.js
+||vkontakte.ru/js/api/share.js
+
 ! mediawiki
 /w/extensions/Popups/resources/hovercard.svg
 ! dokuwiki
@@ -29,6 +40,7 @@
 ! == css ==
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
+aliexpress.com##.new-pro-img
 aliexpress.com##.ui-newuser-layer-dialog
 aliexpress.com##.ui-mask
 crazygames.com##div.leaderboard.midPanel
