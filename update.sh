@@ -13,6 +13,8 @@ yastatic.net/share2/
 EOF
 
 URL='https://easylist-downloads.adblockplus.org/advblock+cssfixes.txt'
-wget $URL -o /dev/null -O - | tail -n +27 | grep -v '@@||yastatic.net*' >> $TMP
+wget $URL -o /dev/null -O - | tail -n +27 | \
+ grep -v '@@||yastatic.net*' | \
+ grep -v '@@||vk.com/js/api/*' >> $TMP
 
 mv $TMP $FILTER
