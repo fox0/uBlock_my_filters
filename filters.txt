@@ -56,8 +56,7 @@ hostingkartinok.com##.cc_banner-wrapper
 ficbook.net##.in-text-ad-left
 fimfiction.net##.advert.right
 fimfiction.net##.sidebar-responsive-patreon
-fimfiction.net##div[data-ad-class="sidebar-responsive"]
-fimfiction.net##div[data-ad-class="story-full-list-inline"]
+fimfiction.net##div[data-ad-class]
 kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
 kp.ru##.pushNotification
