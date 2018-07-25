@@ -13,11 +13,13 @@
 
 ! == urls ==
 ||apis.google.com/js/plusone.js
+||cdn.socket.io/socket.io
 ||fobook.ru/pop.php
 ||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
 ||facebook.net/ru_RU/all.js
 ||google.com/buzz/api/button.js
 ||gstatic.com/docs/common/cleardot.gif
+||herokuapp.com/socket.io/
 ||teinon.net/stats/
 ||twitter.com/widgets.js
 ||mail.ru/js/share/
