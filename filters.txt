@@ -17,6 +17,7 @@
 ||fobook.ru/pop.php
 ||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
 ||facebook.net/ru_RU/all.js
+||facebook.com/plugins/page.php
 ||google.com/buzz/api/button.js
 ||gstatic.com/docs/common/cleardot.gif
 ||herokuapp.com/socket.io/
