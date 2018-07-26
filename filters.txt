@@ -86,4 +86,5 @@ youtube.com###offer-module
 
 ! wordpress
 /wp-admin/admin-ajax.php
+/wp-content/plugins/adhelper/
 /wp-content/plugins/share-buttons/
