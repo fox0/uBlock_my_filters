@@ -78,6 +78,8 @@ youtube.com###offer-module
 ##[href*="appmetrica.yandex.com"]
 ##.ytp-ce-element
 
+/zeropixel/
+
 ! mediawiki
 /w/extensions/Popups/resources/hovercard.svg
 
