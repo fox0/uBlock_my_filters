@@ -10,6 +10,8 @@
 ||metrika-informer.com^
 ||mostpicland.com^
 ||sovetnik.market.yandex.ru^
+||relap.io^
+||top100.ru^
 ||worldoftanks.ru^
 
 ! == urls ==
@@ -20,6 +22,7 @@
 ||facebook.net/ru_RU/all.js
 ||facebook.com/plugins/page.php
 ||google.com/buzz/api/button.js
+||google.com/domainless/
 ||gstatic.com/docs/common/cleardot.gif
 ||habr.com/viewcount/
 ||herokuapp.com/socket.io/
@@ -27,6 +30,7 @@
 ||twitter.com/widgets.js
 ||mail.ru/js/share/
 ||ponyfiction.org/notifications/unread_count/
+||odnoklassniki.ru/share/
 ||ok.ru/connect.js
 ||linkedin.com/in.js
 ||userapi.com/js/api/openapi.js
@@ -79,3 +83,7 @@ youtube.com###offer-module
 
 ! dokuwiki
 /lib/exe/indexer.php
+
+! wordpress
+/wp-admin/admin-ajax.php
+/wp-content/plugins/share-buttons/
