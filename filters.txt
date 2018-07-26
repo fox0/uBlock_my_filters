@@ -30,11 +30,15 @@
 ||twitter.com/widgets.js
 ||mail.ru/js/share/
 ||ponyfiction.org/notifications/unread_count/
+||play.google.com/log
 ||odnoklassniki.ru/share/
 ||ok.ru/connect.js
+||inputtools.google.com/ping
 ||linkedin.com/in.js
 ||userapi.com/js/api/openapi.js
+||youtube.com/api/stats/
 ||youtube.com/subscribe_widget
+||youtube.com/notifications_ajax
 ||vk.com/js/api/openapi.js
 ||vkontakte.ru/js/api/share.js
 ||yastatic.net/share2/
