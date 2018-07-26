@@ -37,6 +37,7 @@
 ||youtube.com/subscribe_widget
 ||vk.com/js/api/openapi.js
 ||vkontakte.ru/js/api/share.js
+||yastatic.net/share2/
 ||youtube.com/youtubei/v1/log_event?
 
 ! == css ==
