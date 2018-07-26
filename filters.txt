@@ -23,6 +23,7 @@
 ||facebook.com/plugins/page.php
 ||google.com/buzz/api/button.js
 ||google.com/domainless/
+||googlevideo.com/videogoodput
 ||gstatic.com/docs/common/cleardot.gif
 ||habr.com/viewcount/
 ||herokuapp.com/socket.io/
@@ -36,7 +37,9 @@
 ||inputtools.google.com/ping
 ||linkedin.com/in.js
 ||userapi.com/js/api/openapi.js
+||youtube.com/annotations_invideo
 ||youtube.com/api/stats/
+||youtube.com/service_ajax
 ||youtube.com/subscribe_widget
 ||youtube.com/notifications_ajax
 ||vk.com/js/api/openapi.js
