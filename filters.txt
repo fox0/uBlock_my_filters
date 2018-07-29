@@ -68,6 +68,7 @@ kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
 kp.ru##.pushNotification
 livejournal.com##.ng-scope.discoverytimes-noiframe
+mk.ru###push-alert-block
 pornhub.com###abAlert
 readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
