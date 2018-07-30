@@ -30,6 +30,7 @@
 ||teinon.net/stats/
 ||twitter.com/widgets.js
 ||mail.ru/js/share/
+||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
 ||ponyfiction.org/notifications/unread_count/
 ||play.google.com/log
 ||odnoklassniki.ru/share/
@@ -75,7 +76,6 @@ readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
-ru.wikipedia.org###centralNotice
 sourceforge.net###newsletter-floating
 translate.google.com,translate.google.ru###gt-promo-lr
 translate.google.com,translate.google.ru##.gb_g
