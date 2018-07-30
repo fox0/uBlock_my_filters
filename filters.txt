@@ -52,6 +52,7 @@
 ||youtube.com/notifications_ajax
 ||youtube.com/youtubei/v1/log_event?
 
+||vk.com/errors.php
 ||vk.com/js/api/openapi.js
 ||vk.com/share.php
 ||vkontakte.ru/js/api/share.js
