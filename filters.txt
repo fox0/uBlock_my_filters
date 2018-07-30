@@ -36,6 +36,7 @@
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
 ||ponyfiction.org/notifications/unread_count/
 ||play.google.com/log
+||ssh.com/trk
 ||lingualeo.com/pixel
 ||odnoklassniki.ru/share/
 ||ok.ru/connect.js
