@@ -19,6 +19,7 @@
 ||api.facebook.com/method/fql.query
 ||cdn.socket.io/socket.io
 ||connect.facebook.net/*/sdk.js
+||cola.lingualeo.com/pixel
 ||fobook.ru/pop.php
 ||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
 ||facebook.net/ru_RU/all.js
@@ -31,13 +32,13 @@
 ||habr.com/viewcount/
 ||herokuapp.com/socket.io/
 ||teinon.net/stats/
+||timer.lingualeo.com/track
 ||twitter.com/widgets.js
 ||mail.ru/js/share/
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
 ||ponyfiction.org/notifications/unread_count/
 ||play.google.com/log
 ||ssh.com/trk
-||lingualeo.com/pixel
 ||odnoklassniki.ru/share/
 ||ok.ru/connect.js
 ||inputtools.google.com/ping
