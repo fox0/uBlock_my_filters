@@ -89,6 +89,7 @@ kp.ru###MailSubscriptionPopupEl
 kp.ru##.pushNotification
 
 lingualeo.com##.l-left-banner
+lingualeo.com##.mobile-panel.notification-panel
 livejournal.com##.ng-scope.discoverytimes-noiframe
 mk.ru###push-alert-block
 pornhub.com###abAlert
