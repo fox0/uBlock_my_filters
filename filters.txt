@@ -16,11 +16,14 @@
 
 ! == urls ==
 ||apis.google.com/js/plusone.js
+||api.facebook.com/method/fql.query
 ||cdn.socket.io/socket.io
+||connect.facebook.net/*/sdk.js
 ||fobook.ru/pop.php
 ||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
 ||facebook.net/ru_RU/all.js
 ||facebook.com/plugins/page.php
+||facebook.com/plugins/like.php
 ||google.com/buzz/api/button.js
 ||google.com/domainless/
 ||googlevideo.com/videogoodput
@@ -33,20 +36,24 @@
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
 ||ponyfiction.org/notifications/unread_count/
 ||play.google.com/log
+||lingualeo.com/pixel
 ||odnoklassniki.ru/share/
 ||ok.ru/connect.js
 ||inputtools.google.com/ping
 ||linkedin.com/in.js
 ||userapi.com/js/api/openapi.js
+
+||yastatic.net/share
 ||youtube.com/annotations_invideo
 ||youtube.com/api/stats/
 ||youtube.com/service_ajax
 ||youtube.com/subscribe_widget
 ||youtube.com/notifications_ajax
-||vk.com/js/api/openapi.js
-||vkontakte.ru/js/api/share.js
-||yastatic.net/share2/
 ||youtube.com/youtubei/v1/log_event?
+
+||vk.com/js/api/openapi.js
+||vk.com/share.php
+||vkontakte.ru/js/api/share.js
 
 ! == css ==
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
