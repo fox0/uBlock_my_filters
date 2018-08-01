@@ -5,6 +5,7 @@
 ||adschoom.com^
 ||appmetrica.yandex.com^
 ||conceau.co^
+||cdn.cookielaw.org^
 ||have-fun.online^
 ||heroeswm.ru^
 ||metrika-informer.com^
@@ -92,7 +93,6 @@ kp.ru##.pushNotification
 
 lingualeo.com##.l-left-banner
 lingualeo.com##.mobile-panel.notification-panel
-link.springer.com##.optanon-alert-box-wrapper
 livejournal.com##.ng-scope.discoverytimes-noiframe
 
 mk.ru###push-alert-block
