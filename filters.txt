@@ -3,6 +3,7 @@
 
 ! == hosts ==
 ||adschoom.com^
+||ad-delivery.net^
 ||appmetrica.yandex.com^
 ||conceau.co^
 ||cdn.cookielaw.org^
@@ -18,9 +19,14 @@
 ! == urls ==
 ||apis.google.com/js/plusone.js
 ||api.facebook.com/method/fql.query
+||api.wikia.nocookie.net/*/wikia.php?controller=AdEngine2ApiController
+
 ||cdn.socket.io/socket.io
 ||connect.facebook.net/*/sdk.js
 ||cola.lingualeo.com/pixel
+
+||discordapp.com/api/guilds/*/widget.json
+
 ||fobook.ru/pop.php
 ||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
 ||facebook.net/ru_RU/all.js
@@ -65,6 +71,8 @@
 ||vk.com/js/api/openapi.js
 ||vk.com/share.php
 ||vkontakte.ru/js/api/share.js
+
+||wikia.com/wikia.php?controller=WikiaInYourLang
 
 ! == css ==
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
@@ -111,6 +119,7 @@ translate.google.com,translate.google.ru##.gb_g
 tumblr.com##.road-block-wrapper
 yandex.ru##.serp-adv-item
 youtube.com###offer-module
+wikia.com###WikiaBarWrapper
 
 ! == common ==
 ##[href*="appmetrica.yandex.com"]
