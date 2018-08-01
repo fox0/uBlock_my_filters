@@ -46,6 +46,8 @@
 
 ||odnoklassniki.ru/share/
 ||ok.ru/connect.js
+||online-video.rbc.ru/online
+
 ||inputtools.google.com/ping
 ||linkedin.com/in.js
 ||userapi.com/js/api/openapi.js
@@ -90,10 +92,13 @@ kp.ru##.pushNotification
 
 lingualeo.com##.l-left-banner
 lingualeo.com##.mobile-panel.notification-panel
+link.springer.com##.optanon-alert-box-wrapper
 livejournal.com##.ng-scope.discoverytimes-noiframe
+
 mk.ru###push-alert-block
 pornhub.com###abAlert
 
+rbc.ru##.topline__video-block
 readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
@@ -110,8 +115,6 @@ youtube.com###offer-module
 ! == common ==
 ##[href*="appmetrica.yandex.com"]
 ##.ytp-ce-element
-
-/zeropixel/
 
 ! mediawiki
 /w/extensions/Popups/resources/hovercard.svg
