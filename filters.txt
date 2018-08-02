@@ -21,6 +21,8 @@
 ||api.facebook.com/method/fql.query
 ||api.wikia.nocookie.net/*/wikia.php?controller=AdEngine2ApiController
 
+||bookap.info/img/top/$image
+
 ||cdn.socket.io/socket.io
 ||connect.facebook.net/*/sdk.js
 ||cola.lingualeo.com/pixel
@@ -74,12 +76,15 @@
 
 ||wikia.com/wikia.php?controller=WikiaInYourLang
 
-! == css ==
+
+! ***************************************** css *****************************************
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
 aliexpress.com##.new-pro-img
 aliexpress.com##.ui-newuser-layer-dialog
 aliexpress.com##.ui-mask
+
+bookap.info##.partner-traffic-wrapper
 
 crazygames.com##div.leaderboard.midPanel
 
@@ -104,7 +109,13 @@ lingualeo.com##.mobile-panel.notification-panel
 livejournal.com##.ng-scope.discoverytimes-noiframe
 
 mk.ru###push-alert-block
+
 pornhub.com###abAlert
+pravoved.ru###prvdFixedForm
+pravoved.ru##.prvd-form.prvd-qp-entry-point
+pravoved.ru##.fixedHead
+pravoved.ru##.prvd-form.prvd-qp-popup
+pravoved.ru##.prvd-qp-popup-container
 
 rbc.ru##.topline__video-block
 readcomiconline.to##.top_page_alert
@@ -117,6 +128,9 @@ sourceforge.net###newsletter-floating
 translate.google.com,translate.google.ru###gt-promo-lr
 translate.google.com,translate.google.ru##.gb_g
 tumblr.com##.road-block-wrapper
+
+viva64.com##.personalDataConfirmWrapper
+
 yandex.ru##.serp-adv-item
 youtube.com###offer-module
 wikia.com###WikiaBarWrapper
