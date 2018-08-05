@@ -12,6 +12,7 @@
 ||metrika-informer.com^
 ||mostpicland.com^
 ||sovetnik.market.yandex.ru^
+||jivosite.com^
 ||relap.io^
 ||top100.ru^
 ||worldoftanks.ru^
@@ -62,6 +63,7 @@
 ||userapi.com/js/api/openapi.js
 
 ||yastatic.net/share
+||yastatic.net/sovetnik/
 ||youtube.com/annotations_invideo
 ||youtube.com/api/stats/
 ||youtube.com/service_ajax
@@ -81,7 +83,7 @@
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
 anekdot.ru##div[style="min-height:250px;font-size:0;"]
-aliexpress.com##.new-pro-img
+aliexpress.com##li.list-item[data-album-id]
 aliexpress.com##.ui-newuser-layer-dialog
 aliexpress.com##.ui-mask
 
@@ -96,6 +98,8 @@ habr.com##.post-share
 habr.com##.megapost-teasers
 hostingkartinok.com##.cc_banner-wrapper
 
+farmakopeika.ru##.b24-widget-button-wrapper
+farmakopeika.ru##.js-price-message-wrapper
 ficbook.net##.in-text-ad-left
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
@@ -111,6 +115,8 @@ livejournal.com##.ng-scope.discoverytimes-noiframe
 
 mk.ru###push-alert-block
 
+pastebin.com###abrpm
+pastebin.com###float-box-frame
 pornhub.com###abAlert
 pravoved.ru###prvdFixedForm
 pravoved.ru##.prvd-form.prvd-qp-entry-point
