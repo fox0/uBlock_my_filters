@@ -7,6 +7,7 @@
 ||appmetrica.yandex.com^
 ||conceau.co^
 ||cdn.cookielaw.org^
+||crm.etagi.com^
 ||have-fun.online^
 ||heroeswm.ru^
 ||metrika-informer.com^
@@ -35,10 +36,13 @@
 ||facebook.net/ru_RU/all.js
 ||facebook.com/plugins/page.php
 ||facebook.com/plugins/like.php
+
 ||google.com/buzz/api/button.js
 ||google.com/domainless/
+||google.ru/domainless/
 ||googlevideo.com/videogoodput
 ||gstatic.com/docs/common/cleardot.gif
+
 ||habr.com/viewcount/
 ||herokuapp.com/socket.io/
 
@@ -113,6 +117,7 @@ lingualeo.com##.l-left-banner
 lingualeo.com##.mobile-panel.notification-panel
 livejournal.com##.ng-scope.discoverytimes-noiframe
 
+medialeaks.ru##.profit-btn
 mk.ru###push-alert-block
 
 pastebin.com###abrpm
