@@ -9,7 +9,6 @@
 ||crm.etagi.com^
 ||conceau.co^
 ||connect.facebook.net^
-||graph.facebook.com^
 ||have-fun.online^
 ||heroeswm.ru^
 ||http-check-headers.yandex.ru^
@@ -22,21 +21,30 @@
 ||portal-xiva.yandex.net^
 ||radar.imgsmail.ru^
 ||relap.io^
+||rum.ngenix.net^
+||rum-reflector.ngenix.net^
+||st.dynamicyield.com^
 ||top100.ru^
 ||worldoftanks.ru^
+||win-now.co^
 
 ! == urls ==
 ||2gis.ru/log
+||3dnews.ru/track
 
 ||apis.google.com/js/plusone.js
 ||api.facebook.com/method/fql.query
+||api.ozon.ru/tracker.bx/tracker/v0
 ||api.wikia.nocookie.net/*/wikia.php?controller=AdEngine2ApiController
 
 ||bar.love.mail.ru/jsonp/bar
 ||bookap.info/img/top/$image
 
+||cackle.me/widget/*/count
 ||cdn.api.twitter.com/1/urls/count.json
 ||cdn.socket.io/socket.io
+||cdn.ngenix.net/*/js/testdata-10kB.js
+||cdn.ngenix.net/tracker/
 ||connect.facebook.net/*/sdk.js
 ||connect.ok.ru/dk
 ||connect.mail.ru/share_count
@@ -89,18 +97,19 @@
 ||yandex.ru/clck/counter
 ||yandex.ru/clck/click
 ||yandex.ru/undefined
-||yastatic.net/share
+||yastatic.net/es5-shims/
+||yastatic.net/share$important
 ||yastatic.net/sovetnik/
-||yandex.st/share/share.js
+||yandex.st/share/
 ||youtube.com/annotations_invideo
-||youtube.com/api/stats/
+||youtube.com/api/stats/$important
 ||youtube.com/service_ajax
 ||youtube.com/subscribe_widget
 ||youtube.com/notifications_ajax
 ||youtube.com/youtubei/v1/log_event?
 
 ||vk.com/errors.php
-||vk.com/js/api/openapi.js
+||vk.com/js/api/openapi.js$important
 ||vk.com/share.php
 ||vkontakte.ru/js/api/share.js
 
@@ -167,8 +176,8 @@ readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
 
 sourceforge.net###newsletter-floating
-translate.google.com,translate.google.ru###gt-promo-lr
-translate.google.com,translate.google.ru##.gb_g
+translate.google.###gt-promo-lr
+translate.google.##.gb_g
 tmall.aliexpress.com###dialog-subscription
 tumblr.com##.road-block-wrapper
 
@@ -181,6 +190,8 @@ wikia.com###WikiaBarWrapper
 ! == common ==
 ##[href*="appmetrica.yandex.com"]
 ##.ytp-ce-element
+
+graph.facebook.com/
 
 ! mediawiki
 /w/extensions/Popups/resources/hovercard.svg
