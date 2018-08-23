@@ -5,29 +5,43 @@
 ||adschoom.com^
 ||ad-delivery.net^
 ||appmetrica.yandex.com^
-||conceau.co^
 ||cdn.cookielaw.org^
 ||crm.etagi.com^
+||conceau.co^
+||connect.facebook.net^
+||graph.facebook.com^
 ||have-fun.online^
 ||heroeswm.ru^
+||http-check-headers.yandex.ru^
 ||metrika-informer.com^
 ||mostpicland.com^
 ||sovetnik.market.yandex.ru^
 ||jivosite.com^
+||likemore-fe.go.mail.ru^
+||likemore-go.imgsmail.ru^
+||portal-xiva.yandex.net^
+||radar.imgsmail.ru^
 ||relap.io^
 ||top100.ru^
 ||worldoftanks.ru^
 
 ! == urls ==
+||2gis.ru/log
+
 ||apis.google.com/js/plusone.js
 ||api.facebook.com/method/fql.query
 ||api.wikia.nocookie.net/*/wikia.php?controller=AdEngine2ApiController
 
+||bar.love.mail.ru/jsonp/bar
 ||bookap.info/img/top/$image
 
+||cdn.api.twitter.com/1/urls/count.json
 ||cdn.socket.io/socket.io
 ||connect.facebook.net/*/sdk.js
+||connect.ok.ru/dk
+||connect.mail.ru/share_count
 ||cola.lingualeo.com/pixel
+||cp-filin.mail.ru/pic?email=
 
 ||discordapp.com/api/guilds/*/widget.json
 
@@ -49,10 +63,12 @@
 ||mail.ru/js/share/
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
 ||ponyfiction.org/notifications/unread_count/
+||portal.mail.ru/NaviData
 ||play.google.com/log
 
 ||ssh.com/trk
 ||staticcdn.lingualeo.com/build/js/cola.*.min.js
+||static-mon.yandex.net/static/main.js
 
 ||teinon.net/stats/
 ||timer.lingualeo.com/track
@@ -60,14 +76,22 @@
 
 ||odnoklassniki.ru/share/
 ||ok.ru/connect.js
+||ok.ru/mapi?query=
 ||online-video.rbc.ru/online
 
+||igromania.ru/-Engine-/AJAX/gate.twitch.radar/index.php
 ||inputtools.google.com/ping
+||instagram.com/static/bundles/base/EmbedSDK.js
+
 ||linkedin.com/in.js
 ||userapi.com/js/api/openapi.js
 
+||yandex.ru/clck/counter
+||yandex.ru/clck/click
+||yandex.ru/undefined
 ||yastatic.net/share
 ||yastatic.net/sovetnik/
+||yandex.st/share/share.js
 ||youtube.com/annotations_invideo
 ||youtube.com/api/stats/
 ||youtube.com/service_ajax
@@ -82,6 +106,9 @@
 
 ||wikia.com/wikia.php?controller=WikiaInYourLang
 
+||zen.yandex.ru^$third-party
+||zen.yandex.ru/api/v3/launcher/stats/bulk
+
 
 ! ***************************************** css *****************************************
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
@@ -94,6 +121,7 @@ aliexpress.com##.ui-mask
 bookap.info##.partner-traffic-wrapper
 
 crazygames.com##div.leaderboard.midPanel
+cyberleninka.ru###notification-persist
 
 habr.com##.bmenu_inner
 habr.com##.dfp-slot
@@ -108,6 +136,8 @@ ficbook.net##.in-text-ad-left
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
+
+garant.ru##.popup-social
 
 kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
