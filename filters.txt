@@ -27,6 +27,7 @@
 ||top100.ru^
 ||worldoftanks.ru^
 ||win-now.co^
+||zen.yandex.ru^$third-party
 
 ! == urls ==
 ||2gis.ru/log
@@ -114,8 +115,6 @@
 ||vkontakte.ru/js/api/share.js
 
 ||wikia.com/wikia.php?controller=WikiaInYourLang
-
-||zen.yandex.ru^$third-party
 ||zen.yandex.ru/api/v3/launcher/stats/bulk
 
 
