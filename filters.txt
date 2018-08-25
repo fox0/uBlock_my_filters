@@ -1,35 +1,51 @@
 ! Title: My uBlock filters
 ! Expires: 1 day
 
-! == hosts ==
+! **************************************** hosts ****************************************
 ||adschoom.com^
 ||ad-delivery.net^
 ||appmetrica.yandex.com^
+
 ||cdn.cookielaw.org^
 ||crm.etagi.com^
 ||conceau.co^
 ||connect.facebook.net^
+
 ||have-fun.online^
 ||heroeswm.ru^
 ||http-check-headers.yandex.ru^
+
 ||metrika-informer.com^
 ||mostpicland.com^
+
 ||sovetnik.market.yandex.ru^
+
 ||jivosite.com^
+
 ||likemore-fe.go.mail.ru^
 ||likemore-go.imgsmail.ru^
+
 ||portal-xiva.yandex.net^
+||platform.instagram.com^
+||platform.twitter.com^
+
 ||radar.imgsmail.ru^
 ||relap.io^
 ||rum.ngenix.net^
 ||rum-reflector.ngenix.net^
+
 ||st.dynamicyield.com^
+
 ||top100.ru^
+
+||web-metrica.yandex.ru^
 ||worldoftanks.ru^
 ||win-now.co^
+
 ||zen.yandex.ru^$third-party
 
-! == urls ==
+
+! **************************************** urls ****************************************
 ||2gis.ru/log
 ||3dnews.ru/track
 
@@ -71,17 +87,21 @@
 
 ||mail.ru/js/share/
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
+
 ||ponyfiction.org/notifications/unread_count/
 ||portal.mail.ru/NaviData
 ||play.google.com/log
+||promo-bc.com/promo.php
 
 ||ssh.com/trk
 ||staticcdn.lingualeo.com/build/js/cola.*.min.js
 ||static-mon.yandex.net/static/main.js
 
 ||teinon.net/stats/
+||tjournal.ru^$websocket
 ||timer.lingualeo.com/track
-||twitter.com/widgets.js
+||twitch.tv^$websocket
+||twitch.tv/kraken/channels/*/ads/
 
 ||odnoklassniki.ru/share/
 ||ok.ru/connect.js
@@ -90,6 +110,7 @@
 
 ||igromania.ru/-Engine-/AJAX/gate.twitch.radar/index.php
 ||inputtools.google.com/ping
+||instagram.com/embed.js
 ||instagram.com/static/bundles/base/EmbedSDK.js
 
 ||linkedin.com/in.js
@@ -104,11 +125,13 @@
 ||yandex.st/share/
 ||youtube.com/annotations_invideo
 ||youtube.com/api/stats/$important
+||youtube.com/error_204
 ||youtube.com/service_ajax
 ||youtube.com/subscribe_widget
 ||youtube.com/notifications_ajax
 ||youtube.com/youtubei/v1/log_event?
 
+||vk.com/ads_rotate.php$important
 ||vk.com/errors.php
 ||vk.com/js/api/openapi.js$important
 ||vk.com/share.php
@@ -144,6 +167,7 @@ ficbook.net##.in-text-ad-left
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
+furaffinity.net###cookie-notification
 
 garant.ru##.popup-social
 
@@ -186,10 +210,13 @@ yandex.ru##.serp-adv-item
 youtube.com###offer-module
 wikia.com###WikiaBarWrapper
 
-! == common ==
+
+! **************************************** common ****************************************
 ##[href*="appmetrica.yandex.com"]
 ##.ytp-ce-element
 
+/analytic_watch.js
+/openapi.js
 graph.facebook.com/
 
 ! mediawiki
