@@ -58,10 +58,16 @@
 ||bookap.info/img/top/$image
 
 ||cackle.me/widget/*/count
+||career.ru/analytics
+||career.ru/api/fl
+||career.ru/stat
 ||cdn.api.twitter.com/1/urls/count.json
+||cdn.iframe.ly/api/iframe
+||cdn.sendpulse.com/js/push/
 ||cdn.socket.io/socket.io
 ||cdn.ngenix.net/*/js/testdata-10kB.js
 ||cdn.ngenix.net/tracker/
+||cse.google.com^$domain=cyberforum.ru
 ||connect.facebook.net/*/sdk.js
 ||connect.ok.ru/dk
 ||connect.mail.ru/share_count
@@ -72,9 +78,10 @@
 
 ||fobook.ru/pop.php
 ||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
-||facebook.net/ru_RU/all.js
+||facebook.com/connect/
 ||facebook.com/plugins/page.php
 ||facebook.com/plugins/like.php
+||facebook.net/ru_RU/all.js
 
 ||google.com/buzz/api/button.js
 ||google.com/domainless/
@@ -84,6 +91,9 @@
 
 ||habr.com/viewcount/
 ||herokuapp.com/socket.io/
+||hh.ru/analytics
+||hh.ru/stat
+||hh.ru/jsbuild/HH/Social/Share
 
 ||mail.ru/js/share/
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
@@ -93,9 +103,12 @@
 ||play.google.com/log
 ||promo-bc.com/promo.php
 
+||site.yandex.net^$important,domain=cyberforum.ru
 ||ssh.com/trk
+||spb.kp.ru/ws
 ||staticcdn.lingualeo.com/build/js/cola.*.min.js
 ||static-mon.yandex.net/static/main.js
+||stats.viqeo.tv/stats
 
 ||teinon.net/stats/
 ||tjournal.ru^$websocket
@@ -135,6 +148,7 @@
 ||vk.com/errors.php
 ||vk.com/js/api/openapi.js$important
 ||vk.com/share.php
+||vk.com/upload_fails.php
 ||vkontakte.ru/js/api/share.js
 
 ||wikia.com/wikia.php?controller=WikiaInYourLang
@@ -211,21 +225,16 @@ youtube.com###offer-module
 wikia.com###WikiaBarWrapper
 
 
-! **************************************** common ****************************************
-##[href*="appmetrica.yandex.com"]
-##.ytp-ce-element
-
+! **************************************** common urls ****************************************
 /analytic_watch.js
 /openapi.js
-graph.facebook.com/
-
-! mediawiki
-/w/extensions/Popups/resources/hovercard.svg
-
-! dokuwiki
 /lib/exe/indexer.php
-
-! wordpress
+/w/extensions/Popups/resources/hovercard.svg
 /wp-admin/admin-ajax.php
 /wp-content/plugins/adhelper/
 /wp-content/plugins/share-buttons/
+graph.facebook.com/
+
+
+! **************************************** common css ****************************************
+##.ytp-ce-element
