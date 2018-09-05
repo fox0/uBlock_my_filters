@@ -42,6 +42,7 @@
 ||worldoftanks.ru^
 ||win-now.co^
 
+||qaru.site^
 ||zen.yandex.ru^$third-party
 
 
