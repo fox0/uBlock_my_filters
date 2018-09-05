@@ -34,6 +34,10 @@
 ||rum.ngenix.net^
 ||rum-reflector.ngenix.net^
 
+||uptime-info.yandex.ru^
+
+||share.pluso.ru^
+||share.yandex.ru^
 ||st.dynamicyield.com^
 
 ||top100.ru^
@@ -99,10 +103,13 @@
 ||mail.ru/js/share/
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
 
+||pikabu.ru/ya/cookies/
 ||ponyfiction.org/notifications/unread_count/
 ||portal.mail.ru/NaviData
 ||play.google.com/log
 ||promo-bc.com/promo.php
+
+||ria.ru/polling
 
 ||site.yandex.net^$important,domain=cyberforum.ru
 ||ssh.com/trk
@@ -214,8 +221,8 @@ readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
 
 sourceforge.net###newsletter-floating
-translate.google.###gt-promo-lr
-translate.google.##.gb_g
+translate.google.com###gt-promo-lr
+translate.google.com##.gb_g.gb_Wc.gb_xd
 tmall.aliexpress.com###dialog-subscription
 tumblr.com##.road-block-wrapper
 
