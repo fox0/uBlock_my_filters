@@ -5,6 +5,7 @@
 ||adschoom.com^
 ||ad-delivery.net^
 ||appmetrica.yandex.com^
+||assets.pinterest.com^
 
 ||cdn.cookielaw.org^
 ||crm.etagi.com^
@@ -58,6 +59,7 @@
 ||api.facebook.com/method/fql.query
 ||api.ozon.ru/tracker.bx/tracker/v0
 ||api.wikia.nocookie.net/*/wikia.php?controller=AdEngine2ApiController
+||appsmail.ru/share/
 
 ||bar.love.mail.ru/jsonp/bar
 ||bookap.info/img/top/$image
@@ -110,6 +112,7 @@
 ||promo-bc.com/promo.php
 
 ||ria.ru/polling
+||rpc.zarplata.ru/ngs_recommended_vacancies
 
 ||site.yandex.net^$important,domain=cyberforum.ru
 ||ssh.com/trk
@@ -176,6 +179,8 @@ bookap.info##.partner-traffic-wrapper
 crazygames.com##div.leaderboard.midPanel
 cyberleninka.ru###notification-persist
 
+docs.cntd.ru##.shareBanner_content_item
+
 habr.com##.bmenu_inner
 habr.com##.dfp-slot
 habr.com##.promo-block
@@ -186,6 +191,7 @@ hostingkartinok.com##.cc_banner-wrapper
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
 ficbook.net##.in-text-ad-left
+ficbook.net##.discount
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
@@ -202,6 +208,7 @@ lingualeo.com##.mobile-panel.notification-panel
 livejournal.com##.ng-scope.discoverytimes-noiframe
 
 medialeaks.ru##.profit-btn
+meduza.io##.GDPRPanel
 mk.ru###push-alert-block
 
 pastebin.com###abrpm
@@ -230,6 +237,7 @@ viva64.com##.personalDataConfirmWrapper
 
 yandex.ru##.serp-adv-item
 youtube.com###offer-module
+youtube.com###youtube-donation-button
 wikia.com###WikiaBarWrapper
 
 
