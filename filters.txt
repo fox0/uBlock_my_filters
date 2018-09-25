@@ -2,15 +2,18 @@
 ! Expires: 1 day
 
 ! **************************************** hosts ****************************************
-||adschoom.com^
+||1worldonline.com^
+||adschoom.com
 ||ad-delivery.net^
 ||appmetrica.yandex.com^
 ||assets.pinterest.com^
 
 ||cdn.cookielaw.org^
+||cbr-xml-daily.ru^
 ||crm.etagi.com^
 ||conceau.co^
 ||connect.facebook.net^
+||cors.io^
 
 ||have-fun.online^
 ||heroeswm.ru^
@@ -32,10 +35,13 @@
 
 ||radar.imgsmail.ru^
 ||relap.io^
+||ruinfo.in^
 ||rum.ngenix.net^
 ||rum-reflector.ngenix.net^
 
 ||uptime-info.yandex.ru^
+
+||ysa-static.passport.yandex.ru^$third-party
 
 ||share.pluso.ru^
 ||share.yandex.ru^
@@ -55,10 +61,11 @@
 ||2gis.ru/log
 ||3dnews.ru/track
 
-||apis.google.com/js/plusone.js
+||api.cian.ru/chats/
 ||api.facebook.com/method/fql.query
 ||api.ozon.ru/tracker.bx/tracker/v0
 ||api.wikia.nocookie.net/*/wikia.php?controller=AdEngine2ApiController
+||apis.google.com/js/plusone.js
 ||appsmail.ru/share/
 
 ||bar.love.mail.ru/jsonp/bar
@@ -79,6 +86,9 @@
 ||connect.ok.ru/dk
 ||connect.mail.ru/share_count
 ||cola.lingualeo.com/pixel
+||cian.ru/ajax/metrics/
+||cian.ru/ajax/stats/
+||cian.ru/ajax/log-error/
 ||cp-filin.mail.ru/pic?email=
 
 ||discordapp.com/api/guilds/*/widget.json
@@ -102,6 +112,11 @@
 ||hh.ru/stat
 ||hh.ru/jsbuild/HH/Social/Share
 
+||igromania.ru/-Engine-/AJAX/gate.twitch.radar/index.php
+||inputtools.google.com/ping
+||instagram.com/embed.js
+||instagram.com/static/bundles/base/EmbedSDK.js
+
 ||mail.ru/js/share/
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
 
@@ -120,6 +135,9 @@
 ||staticcdn.lingualeo.com/build/js/cola.*.min.js
 ||static-mon.yandex.net/static/main.js
 ||stats.viqeo.tv/stats
+||sopr-api.cian.ru/collect/
+||sopr-api.cian.ru/frontend-metrics/
+||sopr-api.cian.ru/site/
 
 ||teinon.net/stats/
 ||tjournal.ru^$websocket
@@ -131,11 +149,6 @@
 ||ok.ru/connect.js
 ||ok.ru/mapi?query=
 ||online-video.rbc.ru/online
-
-||igromania.ru/-Engine-/AJAX/gate.twitch.radar/index.php
-||inputtools.google.com/ping
-||instagram.com/embed.js
-||instagram.com/static/bundles/base/EmbedSDK.js
 
 ||linkedin.com/in.js
 ||userapi.com/js/api/openapi.js
@@ -163,6 +176,8 @@
 ||vkontakte.ru/js/api/share.js
 
 ||wikia.com/wikia.php?controller=WikiaInYourLang
+||wss.cian.ru/chats/
+
 ||zen.yandex.ru/api/v3/launcher/stats/bulk
 
 
@@ -179,7 +194,10 @@ bookap.info##.partner-traffic-wrapper
 crazygames.com##div.leaderboard.midPanel
 cyberleninka.ru###notification-persist
 
+darkpony.space###TB_overlay
+darkpony.space###TB_window
 docs.cntd.ru##.shareBanner_content_item
+docs.gitlab.com###CybotCookiebotDialog
 
 habr.com##.bmenu_inner
 habr.com##.dfp-slot
@@ -198,6 +216,7 @@ fimfiction.net##div[data-ad-class]
 furaffinity.net###cookie-notification
 
 garant.ru##.popup-social
+google.com##[href*="http://qaru.site"]
 
 kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
