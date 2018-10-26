@@ -188,7 +188,10 @@ anekdot.ru##div[style="min-height:250px;font-size:0;"]
 aliexpress.com##li.list-item[data-album-id]
 aliexpress.com##.ui-newuser-layer-dialog
 aliexpress.com##.ui-mask
+avito.ru##div[id*="context_"]
+avito.ru##div[class*="naV"]
 
+bti.secna.ru###cookie-law-info-bar
 bookap.info##.partner-traffic-wrapper
 
 crazygames.com##div.leaderboard.midPanel
@@ -206,10 +209,14 @@ habr.com##.post-share
 habr.com##.megapost-teasers
 hostingkartinok.com##.cc_banner-wrapper
 
+equestriadaily.com###cookieChoiceInfo
+
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
-ficbook.net##.in-text-ad-left
 ficbook.net##.discount
+ficbook.net##.ic_moon
+ficbook.net##.in-text-ad-left
+ficbook.net##.info > div > .btn-default
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
@@ -228,6 +235,8 @@ livejournal.com##.ng-scope.discoverytimes-noiframe
 
 medialeaks.ru##.profit-btn
 meduza.io##.GDPRPanel
+memepedia.ru##.spu-bg
+memepedia.ru##.spu-box
 mk.ru###push-alert-block
 
 pastebin.com###abrpm
@@ -247,6 +256,8 @@ readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
 
 sourceforge.net###newsletter-floating
+
+theguardian.com##.site-message--permanent
 translate.google.com###gt-promo-lr
 translate.google.com##.gb_g.gb_Wc.gb_xd
 tmall.aliexpress.com###dialog-subscription
@@ -257,6 +268,8 @@ viva64.com##.personalDataConfirmWrapper
 yandex.ru##.serp-adv-item
 youtube.com###offer-module
 youtube.com###youtube-donation-button
+
+warhead.su##.notice--wide.notice
 wikia.com###WikiaBarWrapper
 
 
