@@ -184,16 +184,20 @@
 ! ***************************************** css *****************************************
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
-anekdot.ru##div[style="min-height:250px;font-size:0;"]
 aliexpress.com##li.list-item[data-album-id]
 aliexpress.com##.ui-newuser-layer-dialog
 aliexpress.com##.ui-mask
+anekdot.ru##div.promo_middle
 avito.ru##div[id*="context_"]
 avito.ru##div[class*="naV"]
+avito.ru##div[style="display:block;width:100%;height:inherit;min-height:inherit;max-height:inherit"]
 
 bti.secna.ru###cookie-law-info-bar
 bookap.info##.partner-traffic-wrapper
+booking.com##.header-signin-prompt
+booking.com##.warning_content
 
+cosmo.ru##.disclame_block
 crazygames.com##div.leaderboard.midPanel
 cyberleninka.ru###notification-persist
 
@@ -223,6 +227,10 @@ fimfiction.net##div[data-ad-class]
 furaffinity.net###cookie-notification
 
 garant.ru##.popup-social
+gismeteo.ru##.__frame.readmore > .no_border.blue.link
+gismeteo.ru##.instagramteaser
+gismeteo.ru##.readmore_list
+google.com##.gb_g.gb_aa
 google.com##[href*="http://qaru.site"]
 
 kp.ru###popapIsBlockedAd
@@ -234,12 +242,16 @@ lingualeo.com##.mobile-panel.notification-panel
 livejournal.com##.ng-scope.discoverytimes-noiframe
 
 medialeaks.ru##.profit-btn
+medium.com##.butterBar-message
+medium.com##.js-stickyFooter
+
 meduza.io##.GDPRPanel
 memepedia.ru##.spu-bg
 memepedia.ru##.spu-box
 mk.ru###push-alert-block
 
 pastebin.com###abrpm
+pastebin.com###abrpm3
 pastebin.com###float-box-frame
 pornhub.com###abAlert
 pravoved.ru###prvdFixedForm
@@ -248,6 +260,7 @@ pravoved.ru##.fixedHead
 pravoved.ru##.prvd-form.prvd-qp-popup
 pravoved.ru##.prvd-qp-popup-container
 
+rbapub.wordpress.com###eu-cookie-law
 rbc.ru##.topline__video-block
 readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
@@ -255,6 +268,9 @@ readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
 
+stackoverflow.com###create-team-tooltip
+stackoverflow.com###js-gdpr-consent-banner
+stackoverflow.com##.js-dismissable-hero
 sourceforge.net###newsletter-floating
 
 theguardian.com##.site-message--permanent
@@ -266,11 +282,15 @@ tumblr.com##.road-block-wrapper
 viva64.com##.personalDataConfirmWrapper
 
 yandex.ru##.serp-adv-item
+yandex.ru##.serp-footer__main
+yandex.ru##.promo-popup__content
+yandex.ru##.yaplus_available_yes
 youtube.com###offer-module
 youtube.com###youtube-donation-button
 
 warhead.su##.notice--wide.notice
 wikia.com###WikiaBarWrapper
+wordpress.com##.custom-cookie-banner
 
 
 ! **************************************** common urls ****************************************
