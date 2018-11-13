@@ -187,7 +187,6 @@ acomics.ru###contentSide > .inner > div:nth-of-type(2)
 aliexpress.com##li.list-item[data-album-id]
 aliexpress.com##.ui-newuser-layer-dialog
 aliexpress.com##.ui-mask
-anekdot.ru##div.promo_middle
 avito.ru##div[id*="context_"]
 avito.ru##div[class*="naV"]
 avito.ru##div[style="display:block;width:100%;height:inherit;min-height:inherit;max-height:inherit"]
@@ -218,6 +217,7 @@ equestriadaily.com###cookieChoiceInfo
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
 ficbook.net##.discount
+ficbook.net##.header-b
 ficbook.net##.ic_moon
 ficbook.net##.in-text-ad-left
 ficbook.net##.info > div > .btn-default
@@ -253,6 +253,7 @@ mk.ru###push-alert-block
 pastebin.com###abrpm
 pastebin.com###abrpm3
 pastebin.com###float-box-frame
+popmech.ru##.disclame_block
 pornhub.com###abAlert
 pravoved.ru###prvdFixedForm
 pravoved.ru##.prvd-form.prvd-qp-entry-point
@@ -291,6 +292,7 @@ youtube.com###youtube-donation-button
 warhead.su##.notice--wide.notice
 wikia.com###WikiaBarWrapper
 wordpress.com##.custom-cookie-banner
+www.anekdot.ru##.topicbox:not([data-id])
 
 
 ! **************************************** common urls ****************************************
