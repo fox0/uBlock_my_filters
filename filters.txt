@@ -3,8 +3,10 @@
 
 ! **************************************** hosts ****************************************
 ||1worldonline.com^
+
 ||adschoom.com
 ||ad-delivery.net^
+||api.flocktory.com^
 ||appmetrica.yandex.com^
 ||assets.pinterest.com^
 
@@ -40,6 +42,7 @@
 ||rum-reflector.ngenix.net^
 
 ||uptime-info.yandex.ru^
+||ulogin.ru^$third-party
 
 ||ysa-static.passport.yandex.ru^$third-party
 
@@ -48,6 +51,8 @@
 ||st.dynamicyield.com^
 
 ||top100.ru^
+||translate.google.com^$third-party
+||translate.googleapis.com^$third-party
 
 ||web-metrica.yandex.ru^
 ||worldoftanks.ru^
@@ -203,14 +208,13 @@ cyberleninka.ru###notification-persist
 darkpony.space###TB_overlay
 darkpony.space###TB_window
 docs.cntd.ru##.shareBanner_content_item
-docs.gitlab.com###CybotCookiebotDialog
 
 habr.com##.bmenu_inner
 habr.com##.dfp-slot
 habr.com##.promo-block
 habr.com##.post-share
 habr.com##.megapost-teasers
-hostingkartinok.com##.cc_banner-wrapper
+hh.ru##.saved-search-subscription-wrapper
 
 equestriadaily.com###cookieChoiceInfo
 
@@ -249,6 +253,7 @@ meduza.io##.GDPRPanel
 memepedia.ru##.spu-bg
 memepedia.ru##.spu-box
 mk.ru###push-alert-block
+msdn.microsoft.com##.stdr-vote
 
 pastebin.com###abrpm
 pastebin.com###abrpm3
@@ -280,8 +285,6 @@ translate.google.com##.gb_g.gb_Wc.gb_xd
 tmall.aliexpress.com###dialog-subscription
 tumblr.com##.road-block-wrapper
 
-viva64.com##.personalDataConfirmWrapper
-
 yandex.ru##.serp-adv-item
 yandex.ru##.serp-footer__main
 yandex.ru##.promo-popup__content
@@ -293,6 +296,7 @@ warhead.su##.notice--wide.notice
 wikia.com###WikiaBarWrapper
 wordpress.com##.custom-cookie-banner
 www.anekdot.ru##.topicbox:not([data-id])
+www.anekdot.ru##div.promo_middle
 
 
 ! **************************************** common urls ****************************************
@@ -303,6 +307,7 @@ www.anekdot.ru##.topicbox:not([data-id])
 /wp-admin/admin-ajax.php
 /wp-content/plugins/adhelper/
 /wp-content/plugins/share-buttons/
+/wp-content/plugins/ulogin/
 graph.facebook.com/
 
 
