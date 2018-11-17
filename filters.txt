@@ -216,10 +216,11 @@ habr.com##.post-share
 habr.com##.megapost-teasers
 hh.ru##.saved-search-subscription-wrapper
 
-equestriadaily.com###cookieChoiceInfo
-
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
+ficbook.net##.btns-to-liked-block > .btn-for-like-box
+ficbook.net##.btns-to-liked-block > div:nth-of-type(3)
+ficbook.net##.comment_footer .show_comment_reward_form
 ficbook.net##.discount
 ficbook.net##.header-b
 ficbook.net##.ic_moon
@@ -228,7 +229,6 @@ ficbook.net##.info > div > .btn-default
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
-furaffinity.net###cookie-notification
 
 garant.ru##.popup-social
 gismeteo.ru##.__frame.readmore > .no_border.blue.link
@@ -242,14 +242,11 @@ kp.ru###MailSubscriptionPopupEl
 kp.ru##.pushNotification
 
 lingualeo.com##.l-left-banner
-lingualeo.com##.mobile-panel.notification-panel
-livejournal.com##.ng-scope.discoverytimes-noiframe
 
 medialeaks.ru##.profit-btn
 medium.com##.butterBar-message
 medium.com##.js-stickyFooter
 
-meduza.io##.GDPRPanel
 memepedia.ru##.spu-bg
 memepedia.ru##.spu-box
 mk.ru###push-alert-block
@@ -266,7 +263,6 @@ pravoved.ru##.fixedHead
 pravoved.ru##.prvd-form.prvd-qp-popup
 pravoved.ru##.prvd-qp-popup-container
 
-rbapub.wordpress.com###eu-cookie-law
 rbc.ru##.topline__video-block
 readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
@@ -275,7 +271,6 @@ readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
 
 stackoverflow.com###create-team-tooltip
-stackoverflow.com###js-gdpr-consent-banner
 stackoverflow.com##.js-dismissable-hero
 sourceforge.net###newsletter-floating
 
@@ -312,4 +307,3 @@ graph.facebook.com/
 
 
 ! **************************************** common css ****************************************
-##.ytp-ce-element
