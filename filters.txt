@@ -98,12 +98,14 @@
 
 ||discordapp.com/api/guilds/*/widget.json
 
-||fobook.ru/pop.php
-||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
 ||facebook.com/connect/
 ||facebook.com/plugins/page.php
 ||facebook.com/plugins/like.php
 ||facebook.net/ru_RU/all.js
+||ficbook.net/apple-touch-icon
+||ficbook.net/favicon
+||fobook.ru/pop.php
+||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
 
 ||google.com/buzz/api/button.js
 ||google.com/domainless/
@@ -144,6 +146,7 @@
 ||sopr-api.cian.ru/frontend-metrics/
 ||sopr-api.cian.ru/site/
 
+||teinon.net/design/payment_icons/
 ||teinon.net/stats/
 ||tjournal.ru^$websocket
 ||timer.lingualeo.com/track
@@ -183,8 +186,6 @@
 ||wikia.com/wikia.php?controller=WikiaInYourLang
 ||wss.cian.ru/chats/
 
-||zen.yandex.ru/api/v3/launcher/stats/bulk
-
 
 ! ***************************************** css *****************************************
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
@@ -192,6 +193,8 @@ acomics.ru###contentSide > .inner > div:nth-of-type(2)
 aliexpress.com##li.list-item[data-album-id]
 aliexpress.com##.ui-newuser-layer-dialog
 aliexpress.com##.ui-mask
+anekdot.ru##.topicbox:not([data-id])
+anekdot.ru##div.promo_middle
 avito.ru##div[id*="context_"]
 avito.ru##div[class*="naV"]
 avito.ru##div[style="display:block;width:100%;height:inherit;min-height:inherit;max-height:inherit"]
@@ -202,6 +205,7 @@ booking.com##.header-signin-prompt
 booking.com##.warning_content
 
 cosmo.ru##.disclame_block
+consultant.ru##.smcx-opaque
 crazygames.com##div.leaderboard.midPanel
 cyberleninka.ru###notification-persist
 
@@ -242,6 +246,7 @@ kp.ru###MailSubscriptionPopupEl
 kp.ru##.pushNotification
 
 lingualeo.com##.l-left-banner
+livejournal.com##.discoverytimes-noiframe
 
 medialeaks.ru##.profit-btn
 medium.com##.butterBar-message
@@ -270,15 +275,17 @@ readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
 
+securitylab.ru###BottomSocial
 stackoverflow.com###create-team-tooltip
 stackoverflow.com##.js-dismissable-hero
 sourceforge.net###newsletter-floating
 
 theguardian.com##.site-message--permanent
 translate.google.com###gt-promo-lr
-translate.google.com##.gb_g.gb_Wc.gb_xd
+translate.google.com##.gb_g
 tmall.aliexpress.com###dialog-subscription
 tumblr.com##.road-block-wrapper
+tumblr.com##.tmblr-iframe--follow-teaser
 
 yandex.ru##.serp-adv-item
 yandex.ru##.serp-footer__main
@@ -286,12 +293,12 @@ yandex.ru##.promo-popup__content
 yandex.ru##.yaplus_available_yes
 youtube.com###offer-module
 youtube.com###youtube-donation-button
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-pause-overlay
 
 warhead.su##.notice--wide.notice
 wikia.com###WikiaBarWrapper
 wordpress.com##.custom-cookie-banner
-www.anekdot.ru##.topicbox:not([data-id])
-www.anekdot.ru##div.promo_middle
 
 
 ! **************************************** common urls ****************************************
@@ -304,6 +311,3 @@ www.anekdot.ru##div.promo_middle
 /wp-content/plugins/share-buttons/
 /wp-content/plugins/ulogin/
 graph.facebook.com/
-
-
-! **************************************** common css ****************************************
