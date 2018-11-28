@@ -227,11 +227,13 @@ hostingkartinok.com##.cc_banner-wrapper
 
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
+ficbook.net##.btns-to-liked-block > .btn-for-like-box
 ficbook.net##.comment_footer .show_comment_reward_form
 ficbook.net##.discount
 ficbook.net##.header-b
 ficbook.net##.ic_moon
 ficbook.net##.in-text-ad-left
+ficbook.net##.info > div > .btn-default
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
