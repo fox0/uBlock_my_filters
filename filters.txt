@@ -107,6 +107,8 @@
 ||fobook.ru/pop.php
 ||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
 
+||garant.ru/images/www/all/900x90.jpg$image
+||garant.ru/images/www/all/promo_access.jpg$image
 ||google.com/buzz/api/button.js
 ||google.com/domainless/
 ||google.ru/domainless/
@@ -206,11 +208,13 @@ booking.com##.warning_content
 
 cosmo.ru##.disclame_block
 consultant.ru##.smcx-opaque
+cnet.com##.entered
 crazygames.com##div.leaderboard.midPanel
 cyberleninka.ru###notification-persist
 
 darkpony.space###TB_overlay
 darkpony.space###TB_window
+defcon.ru###cookie-law-container
 docs.cntd.ru##.shareBanner_content_item
 
 habr.com##.bmenu_inner
@@ -219,6 +223,7 @@ habr.com##.promo-block
 habr.com##.post-share
 habr.com##.megapost-teasers
 hh.ru##.saved-search-subscription-wrapper
+hostingkartinok.com##.cc_banner-wrapper
 
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
@@ -230,6 +235,8 @@ ficbook.net##.in-text-ad-left
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
+flightradar24.com##.important-banner--cookies
+flightradar24.com##.importantBannerPadder
 
 garant.ru##.popup-social
 gismeteo.ru##.__frame.readmore > .no_border.blue.link
