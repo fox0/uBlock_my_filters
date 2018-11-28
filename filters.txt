@@ -274,8 +274,11 @@ readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 rifme.net##.greysmall
+ru.semrush.com###sem-limit-popup-overlay
+ru.semrush.com###sem-user-limit-popup-container
 
 securitylab.ru###BottomSocial
+serverfault.com###js-gdpr-consent-banner
 stackoverflow.com###create-team-tooltip
 stackoverflow.com##.js-dismissable-hero
 sourceforge.net###newsletter-floating
