@@ -4,10 +4,12 @@
 ! **************************************** hosts ****************************************
 ||1worldonline.com^
 
-||adschoom.com
+||adfox.ru^$important
+||adschoom.com^
 ||ad-delivery.net^
 ||api.flocktory.com^
 ||appmetrica.yandex.com^
+||an.yandex.ru^$important
 ||assets.pinterest.com^
 
 ||cdn.cookielaw.org^
@@ -190,6 +192,7 @@
 
 
 ! ***************************************** css *****************************************
+academic.ru###cookieBanner
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
 aliexpress.com##li.list-item[data-album-id]
@@ -216,6 +219,9 @@ darkpony.space###TB_overlay
 darkpony.space###TB_window
 defcon.ru###cookie-law-container
 docs.cntd.ru##.shareBanner_content_item
+disk.yandex.ru##._nb-dark-paranja.nb-paranja
+disk.yandex.ru##.b-dialog_welcome.b-dialog._nb-popup
+dtf.ru##.push_offer--shown
 
 habr.com##.bmenu_inner
 habr.com##.dfp-slot
@@ -283,6 +289,8 @@ rifme.net##.greysmall
 ru.semrush.com###sem-limit-popup-overlay
 ru.semrush.com###sem-user-limit-popup-container
 
+ikea.com##.cookie_banner
+
 securitylab.ru###BottomSocial
 serverfault.com###js-gdpr-consent-banner
 stackoverflow.com###create-team-tooltip
@@ -305,8 +313,11 @@ youtube.com###youtube-donation-button
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-pause-overlay
 
+viva64.com##.personalDataConfirmWrapper
+
 warhead.su##.notice--wide.notice
 wikia.com###WikiaBarWrapper
+wikihow.com###gdpr
 wordpress.com##.custom-cookie-banner
 
 
