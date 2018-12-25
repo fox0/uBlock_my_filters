@@ -44,23 +44,32 @@
 ||rum-reflector.ngenix.net^
 
 ||uptime-info.yandex.ru^
-||ulogin.ru^$third-party
-
-||ysa-static.passport.yandex.ru^$third-party
 
 ||share.pluso.ru^
 ||share.yandex.ru^
 ||st.dynamicyield.com^
 
 ||top100.ru^
-||translate.google.com^$third-party
-||translate.googleapis.com^$third-party
+||top100.rambler.ru^
 
 ||web-metrica.yandex.ru^
 ||worldoftanks.ru^
 ||win-now.co^
 
 ||qaru.site^
+
+
+! **************************************** third-party
+||api.facebook.com^$third-party
+
+||ulogin.ru^$third-party
+
+||ysa-static.passport.yandex.ru^$third-party
+
+||tinkoff.ru^$third-party
+||translate.google.com^$third-party
+||translate.googleapis.com^$third-party
+
 ||zen.yandex.ru^$third-party
 
 
@@ -69,11 +78,11 @@
 ||3dnews.ru/track
 
 ||api.cian.ru/chats/
-||api.facebook.com/method/fql.query
 ||api.ozon.ru/tracker.bx/tracker/v0
 ||api.wikia.nocookie.net/*/wikia.php?controller=AdEngine2ApiController
 ||apis.google.com/js/plusone.js
 ||appsmail.ru/share/
+||andreymal.org/counter.png
 
 ||bar.love.mail.ru/jsonp/bar
 ||bookap.info/img/top/$image
@@ -108,6 +117,7 @@
 ||ficbook.net/favicon
 ||fobook.ru/pop.php
 ||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
+||fonts.w.tools/css
 
 ||garant.ru/images/www/all/900x90.jpg$image
 ||garant.ru/images/www/all/promo_access.jpg$image
@@ -192,6 +202,8 @@
 
 
 ! ***************************************** css *****************************************
+2whois.ru###disclaimer
+
 academic.ru###cookieBanner
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
@@ -222,6 +234,9 @@ docs.cntd.ru##.shareBanner_content_item
 disk.yandex.ru##._nb-dark-paranja.nb-paranja
 disk.yandex.ru##.b-dialog_welcome.b-dialog._nb-popup
 dtf.ru##.push_offer--shown
+dw.com##.cookie--visible
+
+equestriadaily.com##.cookie-choices-inner
 
 habr.com##.bmenu_inner
 habr.com##.dfp-slot
@@ -231,6 +246,8 @@ habr.com##.megapost-teasers
 hh.ru##.saved-search-subscription-wrapper
 hostingkartinok.com##.cc_banner-wrapper
 
+facebook.com###u_0_c
+facebook.com###u_0_d
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
 ficbook.net##.btns-to-liked-block > .btn-for-like-box
@@ -250,8 +267,13 @@ garant.ru##.popup-social
 gismeteo.ru##.__frame.readmore > .no_border.blue.link
 gismeteo.ru##.instagramteaser
 gismeteo.ru##.readmore_list
+google.com###Rzn5id
 google.com##.gb_g.gb_aa
 google.com##[href*="http://qaru.site"]
+
+internetsociety.org###eu-cookie-law
+
+jetbrains.com##.cookies-banner
 
 kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
@@ -259,19 +281,24 @@ kp.ru##.pushNotification
 
 lingualeo.com##.l-left-banner
 livejournal.com##.discoverytimes-noiframe
+love2d.org##.cc-banner
 
 medialeaks.ru##.profit-btn
 medium.com##.butterBar-message
 medium.com##.js-stickyFooter
-
+meduza.io##.GDPRPanel-root
 memepedia.ru##.spu-bg
 memepedia.ru##.spu-box
 mk.ru###push-alert-block
 msdn.microsoft.com##.stdr-vote
 
+ntv.ru###newplayer
+ntv.ru##.dTextPadding
+
 pastebin.com###abrpm
 pastebin.com###abrpm3
 pastebin.com###float-box-frame
+pochta.ru##.header__business-tooltip
 popmech.ru##.disclame_block
 pornhub.com###abAlert
 pravoved.ru###prvdFixedForm
@@ -285,6 +312,7 @@ readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
+ria.ru##.widgets__b-slide
 rifme.net##.greysmall
 ru.semrush.com###sem-limit-popup-overlay
 ru.semrush.com###sem-user-limit-popup-container
@@ -292,9 +320,11 @@ ru.semrush.com###sem-user-limit-popup-container
 ikea.com##.cookie_banner
 
 securitylab.ru###BottomSocial
-serverfault.com###js-gdpr-consent-banner
+securitylab.ru##.eupopup-color-default
 stackoverflow.com###create-team-tooltip
+stackoverflow.com##.create-team-tooltip
 stackoverflow.com##.js-dismissable-hero
+soundcloud.com##.m-dismiss-visible
 sourceforge.net###newsletter-floating
 
 theguardian.com##.site-message--permanent
@@ -303,6 +333,8 @@ translate.google.com##.gb_g
 tmall.aliexpress.com###dialog-subscription
 tumblr.com##.road-block-wrapper
 tumblr.com##.tmblr-iframe--follow-teaser
+
+userstyles.org##.NotificationLine
 
 yandex.ru##.serp-adv-item
 yandex.ru##.serp-footer__main
@@ -320,6 +352,8 @@ wikia.com###WikiaBarWrapper
 wikihow.com###gdpr
 wordpress.com##.custom-cookie-banner
 
+zooclub.ru###disclaimer
+
 
 ! **************************************** common urls ****************************************
 /analytic_watch.js
@@ -331,3 +365,6 @@ wordpress.com##.custom-cookie-banner
 /wp-content/plugins/share-buttons/
 /wp-content/plugins/ulogin/
 graph.facebook.com/
+
+! **************************************** common css
+#js-gdpr-consent-banner
