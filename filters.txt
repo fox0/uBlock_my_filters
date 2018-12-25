@@ -367,4 +367,4 @@ zooclub.ru###disclaimer
 graph.facebook.com/
 
 ! **************************************** common css
-#js-gdpr-consent-banner
+###js-gdpr-consent-banner
