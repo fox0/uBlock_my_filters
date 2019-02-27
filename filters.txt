@@ -55,6 +55,7 @@
 ||web-metrica.yandex.ru^
 ||worldoftanks.ru^
 ||win-now.co^
+||www.https.com^
 
 ||qaru.site^
 
@@ -126,6 +127,7 @@
 ||google.ru/domainless/
 ||googlevideo.com/videogoodput
 ||gstatic.com/docs/common/cleardot.gif
+||grouple.co/external/hash
 
 ||habr.com/viewcount/
 ||herokuapp.com/socket.io/
@@ -141,12 +143,17 @@
 ||mail.ru/js/share/
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
 
+||narod.ru/.s/
+||narod.ru/?
+
 ||pikabu.ru/ya/cookies/
 ||ponyfiction.org/notifications/unread_count/
 ||portal.mail.ru/NaviData
 ||play.google.com/log
 ||promo-bc.com/promo.php
 
+||reactor.cc/images/default_avatar.jpeg$image
+||reactor.cc/pics/avatar/user/$image
 ||ria.ru/polling
 ||rpc.zarplata.ru/ngs_recommended_vacancies
 
@@ -156,14 +163,17 @@
 ||staticcdn.lingualeo.com/build/js/cola.*.min.js
 ||static-mon.yandex.net/static/main.js
 ||stats.viqeo.tv/stats
+||strm.yandex.ru/log/
+||strm.yandex.ru/perf
 ||sopr-api.cian.ru/collect/
 ||sopr-api.cian.ru/frontend-metrics/
 ||sopr-api.cian.ru/site/
 
-||teinon.net/design/payment_icons/
+||teinon.net/ficbook/design/payment_icons/
 ||teinon.net/stats/
 ||tjournal.ru^$websocket
 ||timer.lingualeo.com/track
+||tracking.ott.yandex.net/v1/watch
 ||twitch.tv^$websocket
 ||twitch.tv/kraken/channels/*/ads/
 
@@ -202,9 +212,6 @@
 
 
 ! ***************************************** css *****************************************
-2whois.ru###disclaimer
-
-academic.ru###cookieBanner
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
 aliexpress.com##li.list-item[data-album-id]
@@ -301,13 +308,9 @@ pastebin.com###float-box-frame
 pochta.ru##.header__business-tooltip
 popmech.ru##.disclame_block
 pornhub.com###abAlert
-pravoved.ru###prvdFixedForm
-pravoved.ru##.prvd-form.prvd-qp-entry-point
-pravoved.ru##.fixedHead
-pravoved.ru##.prvd-form.prvd-qp-popup
-pravoved.ru##.prvd-qp-popup-container
 
 rbc.ru##.topline__video-block
+reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
@@ -316,8 +319,6 @@ ria.ru##.widgets__b-slide
 rifme.net##.greysmall
 ru.semrush.com###sem-limit-popup-overlay
 ru.semrush.com###sem-user-limit-popup-container
-
-ikea.com##.cookie_banner
 
 securitylab.ru###BottomSocial
 securitylab.ru##.eupopup-color-default
@@ -334,8 +335,6 @@ tmall.aliexpress.com###dialog-subscription
 tumblr.com##.road-block-wrapper
 tumblr.com##.tmblr-iframe--follow-teaser
 
-userstyles.org##.NotificationLine
-
 yandex.ru##.serp-adv-item
 yandex.ru##.serp-footer__main
 yandex.ru##.promo-popup__content
@@ -351,11 +350,13 @@ warhead.su##.notice--wide.notice
 wikia.com###WikiaBarWrapper
 wikihow.com###gdpr
 wordpress.com##.custom-cookie-banner
+wolframalpha.com###__cookie-consent-wrapper
 
 zooclub.ru###disclaimer
 
 
 ! **************************************** common urls ****************************************
+.ru/stat/?c=adsstat&cntr=narod
 /analytic_watch.js
 /openapi.js
 /lib/exe/indexer.php
