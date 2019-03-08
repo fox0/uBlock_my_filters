@@ -2,8 +2,6 @@
 ! Expires: 1 day
 
 ! **************************************** hosts ****************************************
-||1worldonline.com^
-
 ||adfox.ru^$important
 ||adschoom.com^
 ||ad-delivery.net^
@@ -18,9 +16,6 @@
 ||conceau.co^
 ||connect.facebook.net^
 ||cors.io^
-
-||have-fun.online^
-||heroeswm.ru^
 ||http-check-headers.yandex.ru^
 
 ||metrika-informer.com^
@@ -111,13 +106,10 @@
 ||discordapp.com/api/guilds/*/widget.json
 
 ||facebook.com/connect/
-||facebook.com/plugins/page.php
-||facebook.com/plugins/like.php
+||facebook.com/plugins/
 ||facebook.net/ru_RU/all.js
 ||ficbook.net/apple-touch-icon
 ||ficbook.net/favicon
-||fobook.ru/pop.php
-||fobook.ru/wp-content/themes/fobook/fancybox/jquery.fancybox.js
 ||fonts.w.tools/css
 
 ||garant.ru/images/www/all/900x90.jpg$image
@@ -223,7 +215,6 @@ avito.ru##div[id*="context_"]
 avito.ru##div[class*="naV"]
 avito.ru##div[style="display:block;width:100%;height:inherit;min-height:inherit;max-height:inherit"]
 
-bti.secna.ru###cookie-law-info-bar
 bookap.info##.partner-traffic-wrapper
 booking.com##.header-signin-prompt
 booking.com##.warning_content
@@ -241,7 +232,6 @@ docs.cntd.ru##.shareBanner_content_item
 disk.yandex.ru##._nb-dark-paranja.nb-paranja
 disk.yandex.ru##.b-dialog_welcome.b-dialog._nb-popup
 dtf.ru##.push_offer--shown
-dw.com##.cookie--visible
 
 equestriadaily.com##.cookie-choices-inner
 
@@ -276,11 +266,6 @@ gismeteo.ru##.instagramteaser
 gismeteo.ru##.readmore_list
 google.com###Rzn5id
 google.com##.gb_g.gb_aa
-google.com##[href*="http://qaru.site"]
-
-internetsociety.org###eu-cookie-law
-
-jetbrains.com##.cookies-banner
 
 kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
@@ -335,10 +320,6 @@ tmall.aliexpress.com###dialog-subscription
 tumblr.com##.road-block-wrapper
 tumblr.com##.tmblr-iframe--follow-teaser
 
-yandex.ru##.serp-adv-item
-yandex.ru##.serp-footer__main
-yandex.ru##.promo-popup__content
-yandex.ru##.yaplus_available_yes
 youtube.com###offer-module
 youtube.com###youtube-donation-button
 youtube.com##.ytp-ce-element
@@ -346,13 +327,8 @@ youtube.com##.ytp-pause-overlay
 
 viva64.com##.personalDataConfirmWrapper
 
-warhead.su##.notice--wide.notice
-wikia.com###WikiaBarWrapper
-wikihow.com###gdpr
 wordpress.com##.custom-cookie-banner
 wolframalpha.com###__cookie-consent-wrapper
-
-zooclub.ru###disclaimer
 
 
 ! **************************************** common urls ****************************************
