@@ -1,6 +1,10 @@
 ! Title: My uBlock filters
 ! Expires: 1 day
 
+! **************************************** white ****************************************
+@@||lurkmore.so/images/$image
+
+
 ! **************************************** hosts ****************************************
 ||adfox.ru^$important
 ||adschoom.com^
@@ -57,19 +61,19 @@
 
 ! **************************************** third-party
 ||api.facebook.com^$third-party
-
+||call.chatra.io$third-party
+||discordapp.com/widget$third-party
 ||ulogin.ru^$third-party
-
 ||ysa-static.passport.yandex.ru^$third-party
-
+||rambler.ru/api/$third-party
 ||tinkoff.ru^$third-party
 ||translate.google.com^$third-party
 ||translate.googleapis.com^$third-party
-
 ||zen.yandex.ru^$third-party
 
 
 ! **************************************** urls ****************************************
+.ru/stat/?c=commonstat&cntr=narod_000
 ||2gis.ru/log
 ||3dnews.ru/track
 
@@ -79,6 +83,7 @@
 ||apis.google.com/js/plusone.js
 ||appsmail.ru/share/
 ||andreymal.org/counter.png
+||avito.st/s/a/i/0.gif
 
 ||bar.love.mail.ru/jsonp/bar
 ||bookap.info/img/top/$image
@@ -103,11 +108,15 @@
 ||cian.ru/ajax/log-error/
 ||cp-filin.mail.ru/pic?email=
 
+||developers.rambler.ru/likes/
 ||discordapp.com/api/guilds/*/widget.json
 
 ||facebook.com/connect/
 ||facebook.com/plugins/
 ||facebook.net/ru_RU/all.js
+||fandom.com/wikia.php?controller=JSMessages&method=getMessages&format=html&packages=AdEngine
+||fandom.com/wiki-recommendations/
+||ficbook.net/service-worker.js
 ||ficbook.net/apple-touch-icon
 ||ficbook.net/favicon
 ||fonts.w.tools/css
@@ -174,6 +183,7 @@
 ||ok.ru/mapi?query=
 ||online-video.rbc.ru/online
 
+||lentaru.media.eagleplatform.com/index/player
 ||linkedin.com/in.js
 ||userapi.com/js/api/openapi.js
 
@@ -204,6 +214,8 @@
 
 
 ! ***************************************** css *****************************************
+##div[style="text-align: center; background-color: rgb(255, 255, 3);"]$joyreactor.cc|reactor.cc
+
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
 aliexpress.com##li.list-item[data-album-id]
@@ -237,7 +249,9 @@ equestriadaily.com##.cookie-choices-inner
 
 habr.com##.bmenu_inner
 habr.com##.dfp-slot
+habr.com##.footer-block__content_apps
 habr.com##.promo-block
+habr.com##.post-donate
 habr.com##.post-share
 habr.com##.megapost-teasers
 hh.ru##.saved-search-subscription-wrapper
@@ -247,6 +261,7 @@ facebook.com###u_0_c
 facebook.com###u_0_d
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
+ficbook.net###bottomStickyRkl
 ficbook.net##.btns-to-liked-block > .btn-for-like-box
 ficbook.net##.comment_footer .show_comment_reward_form
 ficbook.net##.discount
@@ -264,13 +279,18 @@ garant.ru##.popup-social
 gismeteo.ru##.__frame.readmore > .no_border.blue.link
 gismeteo.ru##.instagramteaser
 gismeteo.ru##.readmore_list
+gismeteo.ru##.navteaser_instagram
 google.com###Rzn5id
 google.com##.gb_g.gb_aa
 
 kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
 kp.ru##.pushNotification
+kommersant.ru##.subscription_popup
 
+lenta.ru##.js-video-box__player
+lenta.ru##.widget-subscribe
+lenta.ru##div.b-box
 lingualeo.com##.l-left-banner
 livejournal.com##.discoverytimes-noiframe
 love2d.org##.cc-banner
@@ -295,7 +315,6 @@ popmech.ru##.disclame_block
 pornhub.com###abAlert
 
 rbc.ru##.topline__video-block
-reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
@@ -325,7 +344,9 @@ youtube.com###youtube-donation-button
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-pause-overlay
 
+vaughn.live##.MvnAbvsLowerThirdWrapper
 viva64.com##.personalDataConfirmWrapper
+vk.com##.feature_info_tooltip
 
 wordpress.com##.custom-cookie-banner
 wolframalpha.com###__cookie-consent-wrapper
