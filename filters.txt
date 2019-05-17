@@ -56,6 +56,7 @@
 ||win-now.co^
 ||www.https.com^
 
+||qarchive.ru^
 ||qaru.site^
 
 
