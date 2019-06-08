@@ -74,13 +74,27 @@
 
 
 ! **************************************** urls ****************************************
+||site.yandex.net^$important,domain=cyberforum.ru
+
 .ru/stat/?c=commonstat&cntr=narod_000
+.ru/stat/?c=adsstat&cntr=narod
+/analytic_watch.js
+/openapi.js
+/lib/exe/indexer.php
+/w/extensions/Popups/resources/hovercard.svg
+/wp-admin/admin-ajax.php
+/wp-content/plugins/adhelper/
+/wp-content/plugins/share-buttons/
+/wp-content/plugins/ulogin/
+/wp-content/plugins/loginza/
+graph.facebook.com/
+
+
 ||2gis.ru/log
 ||3dnews.ru/track
 
 ||api.cian.ru/chats/
 ||api.ozon.ru/tracker.bx/tracker/v0
-||api.wikia.nocookie.net/*/wikia.php?controller=AdEngine2ApiController
 ||apis.google.com/js/plusone.js
 ||appsmail.ru/share/
 ||andreymal.org/counter.png
@@ -115,8 +129,6 @@
 ||facebook.com/connect/
 ||facebook.com/plugins/
 ||facebook.net/ru_RU/all.js
-||fandom.com/wikia.php?controller=JSMessages&method=getMessages&format=html&packages=AdEngine
-||fandom.com/wiki-recommendations/
 ||ficbook.net/service-worker.js
 ||ficbook.net/apple-touch-icon
 ||ficbook.net/favicon
@@ -142,6 +154,10 @@
 ||instagram.com/embed.js
 ||instagram.com/static/bundles/base/EmbedSDK.js
 
+||lentaru.media.eagleplatform.com/index/player
+||loginza.ru/js/widget
+||linkedin.com/in.js
+
 ||mail.ru/js/share/
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
 
@@ -159,7 +175,6 @@
 ||ria.ru/polling
 ||rpc.zarplata.ru/ngs_recommended_vacancies
 
-||site.yandex.net^$important,domain=cyberforum.ru
 ||ssh.com/trk
 ||spb.kp.ru/ws
 ||staticcdn.lingualeo.com/build/js/cola.*.min.js
@@ -172,6 +187,7 @@
 ||sopr-api.cian.ru/site/
 
 ||teinon.net/ficbook/design/payment_icons/
+||teinon.net/ficbook/design/support_infographics.jpg$image
 ||teinon.net/stats/
 ||tjournal.ru^$websocket
 ||timer.lingualeo.com/track
@@ -184,8 +200,6 @@
 ||ok.ru/mapi?query=
 ||online-video.rbc.ru/online
 
-||lentaru.media.eagleplatform.com/index/player
-||linkedin.com/in.js
 ||userapi.com/js/api/openapi.js
 
 ||yandex.ru/clck/counter
@@ -210,24 +224,24 @@
 ||vk.com/upload_fails.php
 ||vkontakte.ru/js/api/share.js
 
-||wikia.com/wikia.php?controller=WikiaInYourLang
 ||wss.cian.ru/chats/
 
 
 ! ***************************************** css *****************************************
+###js-gdpr-consent-banner
+##.gdprPopup
+
 joyreactor.cc,reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
-aliexpress.com##li.list-item[data-album-id]
-aliexpress.com##.ui-newuser-layer-dialog
-aliexpress.com##.ui-mask
 anekdot.ru##.topicbox:not([data-id])
 anekdot.ru##div.promo_middle
 avito.ru##div[id*="context_"]
 avito.ru##div[class*="naV"]
 avito.ru##div[style="display:block;width:100%;height:inherit;min-height:inherit;max-height:inherit"]
 
+bash.im##.quote__banner_wrap
 bookap.info##.partner-traffic-wrapper
 booking.com##.header-signin-prompt
 booking.com##.warning_content
@@ -249,6 +263,7 @@ dtf.ru##.push_offer--shown
 equestriadaily.com##.cookie-choices-inner
 
 habr.com##.bmenu_inner
+habr.com##.content-list__item_news-block
 habr.com##.dfp-slot
 habr.com##.footer-block__content_apps
 habr.com##.promo-block
@@ -258,8 +273,8 @@ habr.com##.megapost-teasers
 hh.ru##.saved-search-subscription-wrapper
 hostingkartinok.com##.cc_banner-wrapper
 
-facebook.com###u_0_c
-facebook.com###u_0_d
+fandom.com###WikiaBar
+fandom.com##.banner-notifications-placeholder
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
 ficbook.net###bottomStickyRkl
@@ -270,9 +285,12 @@ ficbook.net##.header-b
 ficbook.net##.ic_moon
 ficbook.net##.in-text-ad-left
 ficbook.net##.info > div > .btn-default
+ficbook.net##.social-top
+ficbook.net##.social-bottom
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
+furaffinity.net###cookie-notification
 flightradar24.com##.important-banner--cookies
 flightradar24.com##.importantBannerPadder
 
@@ -315,6 +333,9 @@ pochta.ru##.header__business-tooltip
 popmech.ru##.disclame_block
 pornhub.com###abAlert
 
+ieeexplore.ieee.org##.cc-banner
+interfax.ru##.bss__wrap
+
 rbc.ru##.topline__video-block
 readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
@@ -327,7 +348,9 @@ ru.semrush.com###sem-user-limit-popup-container
 
 securitylab.ru###BottomSocial
 securitylab.ru##.eupopup-color-default
+sputnik.ru##.b-promo
 stackoverflow.com###create-team-tooltip
+stackoverflow.com###js-gdpr-consent-banner
 stackoverflow.com##.create-team-tooltip
 stackoverflow.com##.js-dismissable-hero
 soundcloud.com##.m-dismiss-visible
@@ -336,34 +359,12 @@ sourceforge.net###newsletter-floating
 theguardian.com##.site-message--permanent
 translate.google.com###gt-promo-lr
 translate.google.com##.gb_g
-tmall.aliexpress.com###dialog-subscription
 tumblr.com##.road-block-wrapper
 tumblr.com##.tmblr-iframe--follow-teaser
 
-youtube.com###offer-module
-youtube.com###youtube-donation-button
-youtube.com##.ytp-ce-element
-youtube.com##.ytp-pause-overlay
-
 vaughn.live##.MvnAbvsLowerThirdWrapper
+vesti.fun##.penci-wrap-gprd-law
 viva64.com##.personalDataConfirmWrapper
-vk.com##.feature_info_tooltip
 
 wordpress.com##.custom-cookie-banner
 wolframalpha.com###__cookie-consent-wrapper
-
-
-! **************************************** common urls ****************************************
-.ru/stat/?c=adsstat&cntr=narod
-/analytic_watch.js
-/openapi.js
-/lib/exe/indexer.php
-/w/extensions/Popups/resources/hovercard.svg
-/wp-admin/admin-ajax.php
-/wp-content/plugins/adhelper/
-/wp-content/plugins/share-buttons/
-/wp-content/plugins/ulogin/
-graph.facebook.com/
-
-! **************************************** common css
-###js-gdpr-consent-banner
