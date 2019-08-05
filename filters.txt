@@ -3,6 +3,7 @@
 
 ! **************************************** white ****************************************
 @@||lurkmore.so/images/$image
+@@||yastatic.net/pcode/adfox/loader.js$domain=ficbook.net
 
 
 ! **************************************** hosts ****************************************
@@ -89,6 +90,7 @@
 /wp-content/plugins/loginza/
 graph.facebook.com/
 
+http://russpuss-talk.com/images/
 
 ||2gis.ru/log
 ||3dnews.ru/track
@@ -164,6 +166,7 @@ graph.facebook.com/
 ||narod.ru/.s/
 ||narod.ru/?
 
+||pikabu.ru/avatars/
 ||pikabu.ru/ya/cookies/
 ||ponyfiction.org/notifications/unread_count/
 ||portal.mail.ru/NaviData
@@ -242,12 +245,15 @@ avito.ru##div[class*="naV"]
 avito.ru##div[style="display:block;width:100%;height:inherit;min-height:inherit;max-height:inherit"]
 
 bash.im##.quote__banner_wrap
+bestgore.com##.gdpr-privacy-bar
 bookap.info##.partner-traffic-wrapper
 booking.com##.header-signin-prompt
 booking.com##.warning_content
+bti.secna.ru###cookie-law-info-bar
 
 cosmo.ru##.disclame_block
 consultant.ru##.smcx-opaque
+context.reverso.net###register-popup-bottom
 cnet.com##.entered
 crazygames.com##div.leaderboard.midPanel
 cyberleninka.ru###notification-persist
@@ -270,6 +276,7 @@ habr.com##.promo-block
 habr.com##.post-donate
 habr.com##.post-share
 habr.com##.megapost-teasers
+habr.com##li.post-info.content-list__item_devided.content-list__item:nth-of-type(7)
 hh.ru##.saved-search-subscription-wrapper
 hostingkartinok.com##.cc_banner-wrapper
 
@@ -287,6 +294,7 @@ ficbook.net##.in-text-ad-left
 ficbook.net##.info > div > .btn-default
 ficbook.net##.social-top
 ficbook.net##.social-bottom
+ficbook.net##div.disclamer
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
@@ -310,7 +318,9 @@ kommersant.ru##.subscription_popup
 lenta.ru##.js-video-box__player
 lenta.ru##.widget-subscribe
 lenta.ru##div.b-box
+life.ru##.adblock_open-sidebar
 lingualeo.com##.l-left-banner
+lingvolive.com##._2Ne26
 livejournal.com##.discoverytimes-noiframe
 love2d.org##.cc-banner
 
@@ -320,9 +330,13 @@ medium.com##.js-stickyFooter
 meduza.io##.GDPRPanel-root
 memepedia.ru##.spu-bg
 memepedia.ru##.spu-box
+merriam-webster.com##.underlay
+merriam-webster.com###subscribe-overlay
+merriam-webster.com###recirc-bar-footer
 mk.ru###push-alert-block
 msdn.microsoft.com##.stdr-vote
 
+noisli.com###cookies
 ntv.ru###newplayer
 ntv.ru##.dTextPadding
 
@@ -336,6 +350,8 @@ pornhub.com###abAlert
 ieeexplore.ieee.org##.cc-banner
 interfax.ru##.bss__wrap
 
+ozon.ru##.cookies-info
+
 rbc.ru##.topline__video-block
 readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
@@ -346,6 +362,7 @@ rifme.net##.greysmall
 ru.semrush.com###sem-limit-popup-overlay
 ru.semrush.com###sem-user-limit-popup-container
 
+sciencedirect.com##.ReactModal__Overlay--after-open
 securitylab.ru###BottomSocial
 securitylab.ru##.eupopup-color-default
 sputnik.ru##.b-promo
@@ -362,9 +379,18 @@ translate.google.com##.gb_g
 tumblr.com##.road-block-wrapper
 tumblr.com##.tmblr-iframe--follow-teaser
 
+urbandictionary.com##.cc-banner
+
 vaughn.live##.MvnAbvsLowerThirdWrapper
+vault.mle.party##.privacy-concerns
 vesti.fun##.penci-wrap-gprd-law
 viva64.com##.personalDataConfirmWrapper
 
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-pause-overlay
+
+wikihow.com###gdpr
 wordpress.com##.custom-cookie-banner
 wolframalpha.com###__cookie-consent-wrapper
+
+xnxx.com###x-fda-messages
