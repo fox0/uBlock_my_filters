@@ -3,7 +3,6 @@
 
 ! **************************************** white ****************************************
 @@||lurkmore.so/images/$image
-@@||yastatic.net/pcode/adfox/loader.js$domain=ficbook.net
 
 
 ! **************************************** hosts ****************************************
@@ -177,6 +176,7 @@ http://russpuss-talk.com/images/
 ||reactor.cc/pics/avatar/user/$image
 ||ria.ru/polling
 ||rpc.zarplata.ru/ngs_recommended_vacancies
+||ru.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=pageimages
 
 ||ssh.com/trk
 ||spb.kp.ru/ws
@@ -232,6 +232,7 @@ http://russpuss-talk.com/images/
 
 ! ***************************************** css *****************************************
 ###js-gdpr-consent-banner
+##.cc-banner
 ##.gdprPopup
 
 joyreactor.cc,reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
@@ -244,6 +245,7 @@ avito.ru##div[id*="context_"]
 avito.ru##div[class*="naV"]
 avito.ru##div[style="display:block;width:100%;height:inherit;min-height:inherit;max-height:inherit"]
 
+bash.im##.share.quote__button > svg
 bash.im##.quote__banner_wrap
 bestgore.com##.gdpr-privacy-bar
 bookap.info##.partner-traffic-wrapper
@@ -282,6 +284,7 @@ hostingkartinok.com##.cc_banner-wrapper
 
 fandom.com###WikiaBar
 fandom.com##.banner-notifications-placeholder
+fanfiction.net###cookie_notice
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
 ficbook.net###bottomStickyRkl
@@ -298,6 +301,7 @@ ficbook.net##div.disclamer
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
+forbes.ru##.shares
 furaffinity.net###cookie-notification
 flightradar24.com##.important-banner--cookies
 flightradar24.com##.importantBannerPadder
@@ -322,7 +326,6 @@ life.ru##.adblock_open-sidebar
 lingualeo.com##.l-left-banner
 lingvolive.com##._2Ne26
 livejournal.com##.discoverytimes-noiframe
-love2d.org##.cc-banner
 
 medialeaks.ru##.profit-btn
 medium.com##.butterBar-message
@@ -343,11 +346,14 @@ ntv.ru##.dTextPadding
 pastebin.com###abrpm
 pastebin.com###abrpm3
 pastebin.com###float-box-frame
+peervideo.net##.privacy-concerns
+pejnya.me##.cellbox1
 pochta.ru##.header__business-tooltip
 popmech.ru##.disclame_block
 pornhub.com###abAlert
+pravo.moe##.poloski-bottom
+pubs.acs.org###gdpr-message-content
 
-ieeexplore.ieee.org##.cc-banner
 interfax.ru##.bss__wrap
 
 ozon.ru##.cookies-info
@@ -374,18 +380,19 @@ soundcloud.com##.m-dismiss-visible
 sourceforge.net###newsletter-floating
 
 theguardian.com##.site-message--permanent
+tjournal.ru##.push_offer--shown
 translate.google.com###gt-promo-lr
 translate.google.com##.gb_g
+tutorialspoint.com###privacy-banner
 tumblr.com##.road-block-wrapper
 tumblr.com##.tmblr-iframe--follow-teaser
-
-urbandictionary.com##.cc-banner
 
 vaughn.live##.MvnAbvsLowerThirdWrapper
 vault.mle.party##.privacy-concerns
 vesti.fun##.penci-wrap-gprd-law
 viva64.com##.personalDataConfirmWrapper
 
+yandex.ru##.popup2_visible_yes
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-pause-overlay
 
@@ -394,3 +401,5 @@ wordpress.com##.custom-cookie-banner
 wolframalpha.com###__cookie-consent-wrapper
 
 xnxx.com###x-fda-messages
+xnxx.com###video-ad
+xvideos.com###video-ad
