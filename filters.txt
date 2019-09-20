@@ -6,6 +6,7 @@
 
 
 ! **************************************** hosts ****************************************
+||ad.amic.ru^
 ||adfox.ru^$important
 ||adschoom.com^
 ||ad-delivery.net^
@@ -57,7 +58,7 @@
 ||www.https.com^
 
 ||qarchive.ru^
-||qaru.site^
+!||qaru.site^
 
 
 ! **************************************** third-party
@@ -66,6 +67,7 @@
 ||discordapp.com/widget$third-party
 ||ulogin.ru^$third-party
 ||ysa-static.passport.yandex.ru^$third-party
+||maaxiid.pro$third-party
 ||rambler.ru/api/$third-party
 ||tinkoff.ru^$third-party
 ||translate.google.com^$third-party
@@ -231,27 +233,13 @@ http://russpuss-talk.com/images/
 
 
 ! ***************************************** css *****************************************
-###js-gdpr-consent-banner
-##.cc-banner
-##.gdprPopup
-
 joyreactor.cc,reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 
 acomics.ru###contentSide > .inner > div:nth-of-type(1)
 acomics.ru###contentSide > .inner > div:nth-of-type(2)
-anekdot.ru##.topicbox:not([data-id])
-anekdot.ru##div.promo_middle
-avito.ru##div[id*="context_"]
-avito.ru##div[class*="naV"]
-avito.ru##div[style="display:block;width:100%;height:inherit;min-height:inherit;max-height:inherit"]
 
 bash.im##.share.quote__button > svg
 bash.im##.quote__banner_wrap
-bestgore.com##.gdpr-privacy-bar
-bookap.info##.partner-traffic-wrapper
-booking.com##.header-signin-prompt
-booking.com##.warning_content
-bti.secna.ru###cookie-law-info-bar
 
 cosmo.ru##.disclame_block
 consultant.ru##.smcx-opaque
@@ -262,13 +250,13 @@ cyberleninka.ru###notification-persist
 
 darkpony.space###TB_overlay
 darkpony.space###TB_window
-defcon.ru###cookie-law-container
+
 docs.cntd.ru##.shareBanner_content_item
+
 disk.yandex.ru##._nb-dark-paranja.nb-paranja
 disk.yandex.ru##.b-dialog_welcome.b-dialog._nb-popup
-dtf.ru##.push_offer--shown
 
-equestriadaily.com##.cookie-choices-inner
+dtf.ru##.push_offer--shown
 
 habr.com##.bmenu_inner
 habr.com##.content-list__item_news-block
@@ -276,17 +264,19 @@ habr.com##.dfp-slot
 habr.com##.footer-block__content_apps
 habr.com##.promo-block
 habr.com##.post-donate
+habr.com##.post-info__meta-label
 habr.com##.post-share
 habr.com##.megapost-teasers
-habr.com##li.post-info.content-list__item_devided.content-list__item:nth-of-type(7)
+habr.com##a[href^="https://u.tmtm.ru"]
+
 hh.ru##.saved-search-subscription-wrapper
-hostingkartinok.com##.cc_banner-wrapper
 
 fandom.com###WikiaBar
 fandom.com##.banner-notifications-placeholder
-fanfiction.net###cookie_notice
+
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
+
 ficbook.net###bottomStickyRkl
 ficbook.net##.btns-to-liked-block > .btn-for-like-box
 ficbook.net##.comment_footer .show_comment_reward_form
@@ -298,21 +288,14 @@ ficbook.net##.info > div > .btn-default
 ficbook.net##.social-top
 ficbook.net##.social-bottom
 ficbook.net##div.disclamer
+
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
+
 forbes.ru##.shares
-furaffinity.net###cookie-notification
-flightradar24.com##.important-banner--cookies
-flightradar24.com##.importantBannerPadder
 
 garant.ru##.popup-social
-gismeteo.ru##.__frame.readmore > .no_border.blue.link
-gismeteo.ru##.instagramteaser
-gismeteo.ru##.readmore_list
-gismeteo.ru##.navteaser_instagram
-google.com###Rzn5id
-google.com##.gb_g.gb_aa
 
 kp.ru###popapIsBlockedAd
 kp.ru###MailSubscriptionPopupEl
@@ -339,30 +322,30 @@ merriam-webster.com###recirc-bar-footer
 mk.ru###push-alert-block
 msdn.microsoft.com##.stdr-vote
 
-noisli.com###cookies
 ntv.ru###newplayer
 ntv.ru##.dTextPadding
 
 pastebin.com###abrpm
 pastebin.com###abrpm3
 pastebin.com###float-box-frame
+
 peervideo.net##.privacy-concerns
 pejnya.me##.cellbox1
 pochta.ru##.header__business-tooltip
 popmech.ru##.disclame_block
 pornhub.com###abAlert
 pravo.moe##.poloski-bottom
-pubs.acs.org###gdpr-message-content
 
 interfax.ru##.bss__wrap
 
-ozon.ru##.cookies-info
-
 rbc.ru##.topline__video-block
+
+readcomiconline.to###adbWarnContainer
 readcomiconline.to##.top_page_alert
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
+
 ria.ru##.widgets__b-slide
 rifme.net##.greysmall
 ru.semrush.com###sem-limit-popup-overlay
@@ -381,6 +364,7 @@ sourceforge.net###newsletter-floating
 
 theguardian.com##.site-message--permanent
 tjournal.ru##.push_offer--shown
+topuniversities.com###sliding-popup
 translate.google.com###gt-promo-lr
 translate.google.com##.gb_g
 tutorialspoint.com###privacy-banner
@@ -388,18 +372,35 @@ tumblr.com##.road-block-wrapper
 tumblr.com##.tmblr-iframe--follow-teaser
 
 vaughn.live##.MvnAbvsLowerThirdWrapper
-vault.mle.party##.privacy-concerns
-vesti.fun##.penci-wrap-gprd-law
-viva64.com##.personalDataConfirmWrapper
 
-yandex.ru##.popup2_visible_yes
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-pause-overlay
-
-wikihow.com###gdpr
-wordpress.com##.custom-cookie-banner
-wolframalpha.com###__cookie-consent-wrapper
 
 xnxx.com###x-fda-messages
 xnxx.com###video-ad
 xvideos.com###video-ad
+
+
+! ***************************************** css cookie *****************************************
+###js-gdpr-consent-banner
+##.cc-banner
+##.gdprPopup
+bestgore.com##.gdpr-privacy-bar
+bti.secna.ru###cookie-law-info-bar
+defcon.ru###cookie-law-container
+dependability.ru###cookie-banner-wrapper
+equestriadaily.com##.cookie-choices-inner
+hostingkartinok.com##.cc_banner-wrapper
+fanfiction.net###cookie_notice
+furaffinity.net###cookie-notification
+mlpmerch.com##.cc_banner
+noisli.com###cookies
+pubs.acs.org###gdpr-message-content
+thequestion.ru##.cookie
+ozon.ru##.cookies-info
+vault.mle.party##.privacy-concerns
+vesti.fun##.penci-wrap-gprd-law
+viva64.com##.personalDataConfirmWrapper
+wikihow.com###gdpr
+wordpress.com##.custom-cookie-banner
+wolframalpha.com###__cookie-consent-wrapper
