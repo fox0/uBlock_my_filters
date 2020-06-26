@@ -66,6 +66,9 @@
 ||www.https.com^
 ||yandexbrowser2019.ru^
 
+||neuron.digital^
+||cnt.vvv.ru^
+
 
 ! **************************************** third-party
 ||7pisem.ru^$3p
@@ -233,10 +236,10 @@ http://russpuss-talk.com/images/
 ||youtube.com/subscribe_widget
 ||youtube.com/youtubei/v1/log_event?
 
+||hsto.org/getpro/neuro-habr/
+
 
 ! ***************************************** css
-acomics.ru###contentSide > .inner > div:nth-of-type(1)
-acomics.ru###contentSide > .inner > div:nth-of-type(2)
 bash.im##.quote__banner_wrap
 bash.im##.share.quote__button > svg
 consultant.ru##.smcx-opaque
@@ -354,3 +357,7 @@ xnxx.com###x-fda-messages
 xvideos.com###video-ad
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-pause-overlay
+
+ficbook.net##.jsVueComponent > .btn-default.btn
+vault.mle.party##.privacy-concerns
+tproger.ru###tproger_ads_widget-4
