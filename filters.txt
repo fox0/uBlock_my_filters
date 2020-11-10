@@ -2,11 +2,11 @@
 ! Expires: 1 day
 
 ! **************************************** white
+@@||glimmy.092918.xyz
 @@||lurkmore.so/images/$image
 
 
 ! **************************************** hosts
-!||qaru.site^
 ||ad-delivery.net^
 ||ad.amic.ru^
 ||ad.mail.ru^
@@ -19,6 +19,7 @@
 ||avidreaders.ru^
 ||cbr-xml-daily.ru^
 ||cdn.cookielaw.org^
+||cnt.vvv.ru^
 ||conceau.co^
 ||connect.facebook.net^
 ||cors.io^
@@ -29,12 +30,14 @@
 ||forbidden.yota.ru^
 ||http-check-headers.yandex.ru^
 ||jivosite.com^
+||jrvdga.com^
 ||knidka.info^
 ||licensebuttons.net^
 ||likemore-fe.go.mail.ru^
 ||likemore-go.imgsmail.ru^
 ||metrika-informer.com^
 ||mostpicland.com^
+||neuron.digital^
 ||p.analytic.press^
 ||platform.instagram.com^
 ||platform.twitter.com^
@@ -48,10 +51,12 @@
 ||rum-reflector.ngenix.net^
 ||rum.ngenix.net^
 ||rupython.com^
+||rwpypf.com^
 ||share.pluso.ru^
 ||share.yandex.ru^
 ||sovetnik.market.yandex.ru^
 ||st.dynamicyield.com^
+||stats.ficbook.net^
 ||thebestgame2020.com^
 ||top.gamedev.ru^
 ||top100.rambler.ru^
@@ -64,10 +69,8 @@
 ||win-now.co^
 ||worldoftanks.ru^
 ||www.https.com^
+||xafhra.com^
 ||yandexbrowser2019.ru^
-
-||neuron.digital^
-||cnt.vvv.ru^
 
 
 ! **************************************** third-party
@@ -78,14 +81,17 @@
 ||call.chatra.io$3p
 ||cds.wargaming.net/api/$3p
 ||discordapp.com/widget$3p
-||ulogin.ru^$3p
-||ysa-static.passport.yandex.ru^$3p
 ||maaxiid.pro$3p
 ||rambler.ru/api/$3p
+||rcmjs.rambler.ru$3p
+||search-app.auto.ru$3p
 ||static-cds.gcdn.co^$3p
 ||tinkoff.ru^$3p
 ||translate.google.com^$3p
 ||translate.googleapis.com^$3p
+||ulogin.ru^$3p
+||vpipi.com$3p
+||ysa-static.passport.yandex.ru^$3p
 ||zen.yandex.ru^$3p
 
 
@@ -107,6 +113,7 @@ http://russpuss-talk.com/images/
 ||2gis.ru/log
 ||3dnews.ru/track
 ||andreymal.org/counter.png
+||anekdot.ru/i/bg/optimize.jpg
 ||api.cian.ru/chats/
 ||api.ozon.ru/tracker.bx/tracker/v0
 ||apis.google.com/js/plusone.js
@@ -114,7 +121,7 @@ http://russpuss-talk.com/images/
 ||artsphera.com.ua/c.php
 ||avito.st/s/a/i/0.gif
 ||bar.love.mail.ru/jsonp/bar
-||bookap.info/img/top/$image
+||bookap.info/img/top/
 ||cackle.me/widget/*/count
 ||career.ru/analytics
 ||career.ru/api/fl
@@ -136,6 +143,7 @@ http://russpuss-talk.com/images/
 ||cse.google.com^$domain=cyberforum.ru
 ||developers.rambler.ru/likes/
 ||discordapp.com/api/guilds/*/widget.json
+||docs.cntd.ru/general/images/asme.jpg
 ||facebook.com/connect/
 ||facebook.com/plugins/
 ||facebook.net/ru_RU/all.js
@@ -144,8 +152,8 @@ http://russpuss-talk.com/images/
 ||ficbook.net/service-worker.js
 ||ficbook.net/user_metrics/
 ||fonts.w.tools/css
-||garant.ru/images/www/all/900x90.jpg$image
-||garant.ru/images/www/all/promo_access.jpg$image
+||garant.ru/images/www/all/900x90.jpg
+||garant.ru/images/www/all/promo_access.jpg
 ||google.com/buzz/api/button.js
 ||google.com/domainless/
 ||google.ru/domainless/
@@ -157,12 +165,14 @@ http://russpuss-talk.com/images/
 ||hh.ru/analytics
 ||hh.ru/jsbuild/HH/Social/Share
 ||hh.ru/stat
+||hsto.org/getpro/neuro-habr/
 ||igromania.ru/-Engine-/AJAX/gate.twitch.radar/index.php
 ||inputtools.google.com/ping
 ||instagram.com/embed.js
 ||instagram.com/static/bundles/base/EmbedSDK.js
 ||lentaru.media.eagleplatform.com/index/player
 ||linkedin.com/in.js
+||livejournal.com/log
 ||loginza.ru/js/widget
 ||mail.ru/js/share/
 ||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
@@ -173,7 +183,10 @@ http://russpuss-talk.com/images/
 ||ok.ru/connect.js
 ||ok.ru/mapi?query=
 ||online-video.rbc.ru/online
+||pikabu.ru/ajax/save_stories_stat.php
 ||pikabu.ru/avatars/
+||pikabu.ru/ev.php
+||pikabu.ru/stat/story/
 ||pikabu.ru/ya/cookies/
 ||play.google.com/_/PlayStoreUi/browserinfo
 ||play.google.com/_/PlayStoreUi/gen204/
@@ -182,15 +195,11 @@ http://russpuss-talk.com/images/
 ||ponyfiction.org/notifications/unread_count/
 ||portal.mail.ru/NaviData
 ||promo-bc.com/promo.php
-||qaru.site/apple-touch-icon.png
-||qaru.site/css/
-||qaru.site/favicon-16x16.png
-||qaru.site/i/
-||reactor.cc/images/default_avatar.jpeg$image
-||reactor.cc/pics/avatar/user/$image
+||ranobehub.org/api/user/
+||reactor.cc/images/default_avatar.jpeg
+||reactor.cc/pics/avatar/user/
 ||ria.ru/polling
 ||rpc.zarplata.ru/ngs_recommended_vacancies
-||ru.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&prop=pageimages
 ||site.yandex.net^$important,domain=cyberforum.ru
 ||sopr-api.cian.ru/collect/
 ||sopr-api.cian.ru/frontend-metrics/
@@ -198,13 +207,12 @@ http://russpuss-talk.com/images/
 ||spb.kp.ru/ws
 ||ssh.com/trk
 ||static-mon.yandex.net/static/main.js
+||static.ficbook.net/ficbook/assets/advertisement.*.js
+||static.ficbook.net/ficbook/design/payment_icons/
 ||staticcdn.lingualeo.com/build/js/cola.*.min.js
 ||stats.viqeo.tv/stats
 ||strm.yandex.ru/log/
 ||strm.yandex.ru/perf
-||teinon.net/ficbook/design/payment_icons/
-||teinon.net/ficbook/design/support_infographics.jpg$image
-||teinon.net/stats/
 ||timer.lingualeo.com/track
 ||tiranator.com/cont/splitter.php?img$image
 ||tjournal.ru^$websocket
@@ -226,6 +234,7 @@ http://russpuss-talk.com/images/
 ||yandex.ru/undefined
 ||yandex.st/share/
 ||yastatic.net/es5-shims/
+||yastatic.net/pcode-bundles/*/banners.js
 ||yastatic.net/share$important
 ||yastatic.net/sovetnik/
 ||youtube.com/annotations_invideo
@@ -234,14 +243,11 @@ http://russpuss-talk.com/images/
 ||youtube.com/notifications_ajax
 ||youtube.com/service_ajax
 ||youtube.com/subscribe_widget
-||youtube.com/youtubei/v1/log_event?
-
-||hsto.org/getpro/neuro-habr/
+||youtube.com/youtubei/v1/log_event
 
 
 ! ***************************************** css
-bash.im##.quote__banner_wrap
-bash.im##.share.quote__button > svg
+acomics.ru##.gap
 consultant.ru##.smcx-opaque
 context.reverso.net###register-popup-bottom
 cosmo.ru##.disclame_block
@@ -250,6 +256,7 @@ darkpony.space###TB_overlay
 darkpony.space###TB_window
 disk.yandex.ru##._nb-dark-paranja.nb-paranja
 disk.yandex.ru##.b-dialog_welcome.b-dialog._nb-popup
+docs.cntd.ru##.shareBanner
 docs.cntd.ru##.shareBanner_content_item
 dtf.ru##.push_offer--shown
 fandom.com###WikiaBar
@@ -257,15 +264,15 @@ fandom.com##.banner-notifications-placeholder
 farmakopeika.ru##.b24-widget-button-wrapper
 farmakopeika.ru##.js-price-message-wrapper
 ficbook.net###bottomStickyRkl
-ficbook.net##.btns-to-liked-block > .btn-for-like-box
-ficbook.net##.comment_footer .show_comment_reward_form
 ficbook.net##.discount
+ficbook.net##.fb-ads-block
 ficbook.net##.header-b
 ficbook.net##.ic_moon
 ficbook.net##.in-text-ad-left
 ficbook.net##.rkl-block
 ficbook.net##.share
 ficbook.net##.share-top
+ficbook.net##.smile-picker
 ficbook.net##.social-bottom
 ficbook.net##.social-top
 ficbook.net##div.disclamer
@@ -279,6 +286,7 @@ habr.com##.content-list__item_news-block
 habr.com##.dfp-slot
 habr.com##.footer-block__content_apps
 habr.com##.megapost-teasers
+habr.com##.pinned-block
 habr.com##.post-donate
 habr.com##.post-info__meta-label
 habr.com##.post-share
@@ -288,6 +296,7 @@ hh.ru##.saved-search-subscription-wrapper
 interfax.ru##.bss__wrap
 joyreactor.cc,reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 jsfiddle.net###keep-us-running
+kommersant.ru##.important_news_popup
 kommersant.ru##.subscription_popup
 kp.ru###MailSubscriptionPopupEl
 kp.ru###popapIsBlockedAd
@@ -317,11 +326,14 @@ ntv.ru##.dTextPadding
 pastebin.com###abrpm
 pastebin.com###abrpm3
 pastebin.com###float-box-frame
+pastebin.com##.-cookies.popup-box
+pastebin.com##.-pro.popup-box
 peervideo.net##.privacy-concerns
 pejnya.me##.cellbox1
 pochta.ru##.header__business-tooltip
 popmech.ru##.disclame_block
 pornhub.com###abAlert
+pornhub.com###vpContentContainer > div:nth-of-type(2)
 pravo.moe##.poloski-bottom
 rbc.ru##.topline__video-block
 readcomiconline.to###adbWarnContainer
@@ -346,18 +358,17 @@ stackoverflow.com##.js-dismissable-hero
 theguardian.com##.site-message--permanent
 tjournal.ru##.push_offer--shown
 topuniversities.com###sliding-popup
-translate.google.com###gt-promo-lr
-translate.google.com##.gb_g
+tproger.ru###tproger_ads_widget-4
+translate.google.com##.notification-area
 tumblr.com##.road-block-wrapper
 tumblr.com##.tmblr-iframe--follow-teaser
 tutorialspoint.com###privacy-banner
 vaughn.live##.MvnAbvsLowerThirdWrapper
+vault.mle.party##.privacy-concerns
 xnxx.com###video-ad
 xnxx.com###x-fda-messages
 xvideos.com###video-ad
+yandex.ru##.infinity-zen
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-pause-overlay
-
-ficbook.net##.jsVueComponent > .btn-default.btn
-vault.mle.party##.privacy-concerns
-tproger.ru###tproger_ads_widget-4
+zen.yandex.ru##.article-recommender
