@@ -25,6 +25,7 @@ acomics.ru##.gap
 amic.ru##.notifications
 ap22.ru##.Recbanner
 askubuntu.com##.js-consent-banner
+bbc.com##.e1nbsi9l0
 boosty.to##.GdprOffer_block_1n-uo
 com-x.life##.createAvatarFromComix
 com-x.life##.footer-comments-area
@@ -33,8 +34,6 @@ consultant.ru##.smcx-opaque
 context.reverso.net###register-popup-bottom
 cosmo.ru##.disclame_block
 cyberleninka.ru###notification-persist
-darkpony.space###TB_overlay
-darkpony.space###TB_window
 dtf.ru##.push_offer--shown
 fandom.com###WikiaBar
 fandom.com##.banner-notifications-placeholder
@@ -50,6 +49,8 @@ ficbook.net##.share-buttons
 ficbook.net##.smile-picker
 ficbook.net##.social-bottom
 ficbook.net##.social-top
+ficbook.net$removeparam=premiumVisit
+ficbook.net$removeparam=source
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
 fimfiction.net##div[data-ad-class]
@@ -67,6 +68,7 @@ habr.com##.post-donate
 habr.com##.post-info__meta-label
 habr.com##.post-share
 habr.com##.promo-block
+habr.com##.tm-editoral-subscription
 habr.com##a[href^="https://u.habr.com"]
 habr.com##a[href^="https://u.tmtm.ru"]
 hh.ru##.saved-search-subscription-wrapper
@@ -156,6 +158,7 @@ xnxx.com###x-fda-messages
 xvideos.com###video-ad
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-pause-overlay
+youtube.com$removeparam=feature
 ||2gis.ru/_/log
 ||2gis.ru/log
 ||3dnews.ru/track
@@ -216,6 +219,7 @@ youtube.com##.ytp-pause-overlay
 ||crm.etagi.com^
 ||cse.google.com^$domain=cyberforum.ru
 ||d.d1tracker.ru^
+||darkpony.space/?wpcw=message&
 ||developers.rambler.ru/likes/
 ||discordapp.com/api/guilds/*/widget.json
 ||discordapp.com/widget$3p
@@ -242,8 +246,6 @@ youtube.com##.ytp-pause-overlay
 ||gstatic.com/docs/common/cleardot.gif
 ||habr.com/en/viewcount/
 ||habr.com/ru/viewcount/
-||habracdn.net/habr/*/styles/article.bundle.css
-||habrastorage.org/getpro/tmtm/articles/
 ||herokuapp.com/socket.io/
 ||hh.ru/analytics
 ||hh.ru/jsbuild/HH/Social/Share
@@ -251,7 +253,6 @@ youtube.com##.ytp-pause-overlay
 ||hsto.org/getpro/neuro-habr/
 ||hsto.org/getpro/tmtm/megapost/
 ||http-check-headers.yandex.ru^
-||igromania.ru/-Engine-/AJAX/gate.twitch.radar/index.php
 ||inputtools.google.com/ping
 ||instagram.com/embed.js
 ||instagram.com/static/bundles/base/EmbedSDK.js
@@ -269,7 +270,6 @@ youtube.com##.ytp-pause-overlay
 ||loginza.ru/js/widget
 ||maaxiid.pro^$3p
 ||mail.ru/js/share/
-||meta.wikimedia.org/w/index.php?title=Special:BannerLoader
 ||metrika-informer.com^
 ||mintmanga.live/internal/js_errors
 ||mostpicland.com^
@@ -370,11 +370,8 @@ youtube.com##.ytp-pause-overlay
 ||wf9.ru^
 ||win-now.co^
 ||worldoftanks.ru^
-||wss.cian.ru/chats/
-||www.https.com^
 ||xafhra.com^
-||yandex.ru/clck/click
-||yandex.ru/clck/counter
+||yandex.ru/clck/
 ||yandex.ru/turbo
 ||yandex.ru/undefined
 ||yandex.ru/znatoki/recommender/dj/informer
@@ -392,5 +389,5 @@ youtube.com##.ytp-pause-overlay
 ||youtube.com/subscribe_widget
 ||youtube.com/youtubei/v1/log_event
 ||ysa-static.passport.yandex.ru^$3p
-||zen.yandex.ru^$3p
+||zen.yandex.ru^
 ||zlkbo.com^
