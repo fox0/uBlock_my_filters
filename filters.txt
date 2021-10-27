@@ -2,11 +2,6 @@
 ! Expires: 1 day
 
 $removeparam=clid
-$removeparam=utm_campaign
-$removeparam=utm_content
-$removeparam=utm_medium
-$removeparam=utm_source
-$removeparam=utm_term
 .ru/stat/?c=adsstat&cntr=narod
 .ru/stat/?c=commonstat&cntr=narod_000
 /analytic_watch.js
@@ -34,6 +29,8 @@ consultant.ru##.smcx-opaque
 context.reverso.net###register-popup-bottom
 cosmo.ru##.disclame_block
 cyberleninka.ru###notification-persist
+darkpony.space###TB_window
+darkpony.space##.TB_overlayBG
 dtf.ru##.push_offer--shown
 fandom.com###WikiaBar
 fandom.com##.banner-notifications-placeholder
@@ -58,19 +55,8 @@ forbes.ru##.shares
 garant.ru##.popup-social
 graph.facebook.com/
 grilnica.ru##.cook_panel
-habr.com##.bmenu_inner
-habr.com##.content-list__item_news-block
-habr.com##.dfp-slot
-habr.com##.footer-block__content_apps
-habr.com##.megapost-teasers
-habr.com##.pinned-block
-habr.com##.post-donate
-habr.com##.post-info__meta-label
-habr.com##.post-share
-habr.com##.promo-block
-habr.com##.tm-editoral-subscription
-habr.com##a[href^="https://u.habr.com"]
-habr.com##a[href^="https://u.tmtm.ru"]
+habr.com##.tm-most-reading-block__label
+habr.com##.tm-project-block
 hh.ru##.saved-search-subscription-wrapper
 interfax.ru##.bss__wrap
 iprbookshop.ru###privacy-policy
@@ -101,7 +87,6 @@ merriam-webster.com###recirc-bar-footer
 merriam-webster.com###subscribe-overlay
 merriam-webster.com##.underlay
 mintmanga.live,readmanga.live##.control-hint
-mintmanga.live,readmanga.live#$#body { background-color: #000!important; }
 mintmanga.live,readmanga.live,librebook.me,mose.live###noty_bottomLeft_layout_container
 mk.ru###push-alert-block
 msdn.microsoft.com##.stdr-vote
@@ -115,6 +100,7 @@ pastebin.com###float-box-frame
 pastebin.com##.-cookies.popup-box
 pastebin.com##.-pro.popup-box
 peervideo.net##.privacy-concerns
+pikabu.ru/ajax/save_visited_stories.php
 pochta.ru##.header__business-tooltip
 pochta.ru##.oprosso-widget
 popmech.ru##.disclame_block
@@ -130,6 +116,8 @@ readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to##.top_page_alert
 refactoring.guru##.ban
 ria.ru##.widgets__b-slide
+ria.ru$removeparam=rcmd_alg
+ria.ru$removeparam=rcmd_id
 rifme.net##.greysmall
 ru.semrush.com###sem-limit-popup-overlay
 ru.semrush.com###sem-user-limit-popup-container
@@ -153,6 +141,7 @@ vasilisc.com###AVh2PM7
 vaughn.live##.MvnAbvsLowerThirdWrapper
 vault.mle.party##.privacy-concerns
 wordpress.com###eu-cookie-law
+xn--80aesfpebagmfblc0a.xn--p1ai##.cv-cookie-banner
 xnxx.com###video-ad
 xnxx.com###x-fda-messages
 xvideos.com###video-ad
@@ -173,7 +162,6 @@ youtube.com$removeparam=feature
 ||andreymal.org/counter.png
 ||anekdot.ru/i/bg/
 ||antivirus-alarm.ru^
-||api.cian.ru/chats/
 ||api.facebook.com^$3p
 ||api.flocktory.com^
 ||api.joyreactor.cc/graphql
@@ -190,7 +178,9 @@ youtube.com$removeparam=feature
 ||avito.st/s/a/i/0.gif
 ||bar.love.mail.ru/jsonp/bar
 ||billing.ihor.ru^$3p
+||block.runnet.ru^
 ||bookap.info/img/top/
+||c153yb4hps.ru^
 ||cackle.me/widget/*/count
 ||call.chatra.io^$3p
 ||career.ru/analytics
@@ -205,9 +195,6 @@ youtube.com$removeparam=feature
 ||cdn.sendpulse.com/js/push/
 ||cdn.socket.io/socket.io
 ||cds.wargaming.net/api/$3p
-||cian.ru/ajax/log-error/
-||cian.ru/ajax/metrics/
-||cian.ru/ajax/stats/
 ||cnt.vvv.ru^
 ||cola.lingualeo.com/pixel
 ||conceau.co^
@@ -320,9 +307,6 @@ youtube.com$removeparam=feature
 ||share.yandex.ru^
 ||site.yandex.net^$important,domain=cyberforum.ru
 ||sntr.avito.ru^
-||sopr-api.cian.ru/collect/
-||sopr-api.cian.ru/frontend-metrics/
-||sopr-api.cian.ru/site/
 ||sovetnik.market.yandex.ru^
 ||spb.kp.ru/ws
 ||ssh.com/trk
