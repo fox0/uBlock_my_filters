@@ -17,7 +17,14 @@ $removeparam=clid
 @@||glimmy.092918.xyz
 @@||lurkmore.so/images/$image
 acomics.ru##.gap
+amic.ru##.detail-main__article-news
+amic.ru##.fleft.mbten.share
+amic.ru##.imghcontainer
+amic.ru##.insider
 amic.ru##.notifications
+amic.ru##.nouser
+amic.ru##.sidebar
+amic.ru##.style3
 ap22.ru##.Recbanner
 askubuntu.com##.js-consent-banner
 bbc.com##.e1nbsi9l0
@@ -55,13 +62,17 @@ forbes.ru##.shares
 garant.ru##.popup-social
 graph.facebook.com/
 grilnica.ru##.cook_panel
+habr.com##.tm-company-widgets
+habr.com##.tm-editoral-subscription
 habr.com##.tm-most-reading-block__label
+habr.com##.tm-most-reading-block__promo-post
 habr.com##.tm-project-block
 hh.ru##.saved-search-subscription-wrapper
 interfax.ru##.bss__wrap
 iprbookshop.ru###privacy-policy
 joyreactor.cc,reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 jsfiddle.net###keep-us-running
+kommersant.ru##.basement_news
 kommersant.ru##.important_news_popup
 kommersant.ru##.subscription_popup
 kp.ru###MailSubscriptionPopupEl
@@ -107,20 +118,29 @@ popmech.ru##.disclame_block
 ppt-online.org##a[href="//ppt-online.org/yb.php"]
 pravo.moe##.poloski-bottom
 pypi.org##.notification-bar--fundraiser
+rbc.ru##.article__inline-item
+rbc.ru##.pro-anons
 rbc.ru##.subscription-popup
 rbc.ru##.topline__video-block
+rbc.ru##.video-autoplay-recommend
 readcomiconline.to###adbWarnContainer
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
 readcomiconline.to##.episodeList.barContent > div > div:nth-of-type(4)
 readcomiconline.to##.top_page_alert
 refactoring.guru##.ban
+ria.ru##.article__aggr
+ria.ru##.article__announce
+ria.ru##.article__quote-share
+ria.ru##.article__sharebar-line
 ria.ru##.widgets__b-slide
 ria.ru$removeparam=rcmd_alg
 ria.ru$removeparam=rcmd_id
 rifme.net##.greysmall
 ru.semrush.com###sem-limit-popup-overlay
 ru.semrush.com###sem-user-limit-popup-container
+russian.rt.com##.article__share
+russian.rt.com##.header__social
 sciencedirect.com##.ReactModal__Overlay--after-open
 securitylab.ru###BottomSocial
 securitylab.ru##.eupopup-color-default
@@ -131,8 +151,16 @@ stackoverflow.com###create-team-tooltip
 stackoverflow.com###js-gdpr-consent-banner
 stackoverflow.com##.create-team-tooltip
 stackoverflow.com##.js-dismissable-hero
+tass.ru##.ng-scope.social
+tass.ru##.social-news-buttons
+text.ru##.social_block
 theguardian.com##.site-message--permanent
 tjournal.ru##.push_offer--shown
+tolknews.ru##.b-news_aggr
+tolknews.ru##.b-partners
+tolknews.ru##.inject-long
+tolknews.ru##.js-sticky
+tolknews.ru##.main_picture
 topuniversities.com###sliding-popup
 tproger.ru###tproger_ads_widget-4
 translate.google.com##.notification-area
@@ -232,6 +260,7 @@ youtube.com$removeparam=feature
 ||grouple.co/external/hash
 ||gstatic.com/docs/common/cleardot.gif
 ||habr.com/en/viewcount/
+||habr.com/img/px.gif
 ||habr.com/ru/viewcount/
 ||herokuapp.com/socket.io/
 ||hh.ru/analytics
@@ -239,7 +268,7 @@ youtube.com$removeparam=feature
 ||hh.ru/stat
 ||hsto.org/getpro/neuro-habr/
 ||hsto.org/getpro/tmtm/megapost/
-||http-check-headers.yandex.ru^
+||info.ponyfiction.org^
 ||inputtools.google.com/ping
 ||instagram.com/embed.js
 ||instagram.com/static/bundles/base/EmbedSDK.js
@@ -271,6 +300,7 @@ youtube.com$removeparam=feature
 ||oprosso.ru^$3p
 ||p.analytic.press^
 ||pikabu.ru/ajax/save_stories_stat.php
+||pikabu.ru/ajax/save_visited_stories.php
 ||pikabu.ru/avatars/
 ||pikabu.ru/ev.php
 ||pikabu.ru/stat/story/
@@ -281,6 +311,8 @@ youtube.com$removeparam=feature
 ||play.google.com/_/PlayStoreUi/gen204/
 ||play.google.com/_/PlayStoreUi/jserror
 ||play.google.com/log
+||ponyfiction.org/analytics/
+||ponyfiction.org/cache-test-2021-05
 ||ponyfiction.org/notifications/unread_count/
 ||portal-xiva.yandex.net^
 ||portal.mail.ru/NaviData
@@ -307,7 +339,6 @@ youtube.com$removeparam=feature
 ||share.yandex.ru^
 ||site.yandex.net^$important,domain=cyberforum.ru
 ||sntr.avito.ru^
-||sovetnik.market.yandex.ru^
 ||spb.kp.ru/ws
 ||ssh.com/trk
 ||st.dynamicyield.com^
@@ -323,6 +354,7 @@ youtube.com$removeparam=feature
 ||strm.yandex.ru/log/
 ||strm.yandex.ru/perf
 ||thebestgame2020.com^
+||tiktok.com/embed.js
 ||timer.lingualeo.com/track
 ||tinkoff.ru^$3p
 ||tiranator.com/cont/splitter.php?img$image
@@ -356,15 +388,11 @@ youtube.com$removeparam=feature
 ||worldoftanks.ru^
 ||xafhra.com^
 ||yandex.ru/clck/
-||yandex.ru/turbo
-||yandex.ru/undefined
 ||yandex.ru/znatoki/recommender/dj/informer
 ||yandex.st/share/
-||yandexbrowser2019.ru^
 ||yastatic.net/es5-shims/
 ||yastatic.net/pcode-bundles/*/banners.js
 ||yastatic.net/share$important
-||yastatic.net/sovetnik/
 ||youtube.com/annotations_invideo
 ||youtube.com/api/stats/$important
 ||youtube.com/error_204
