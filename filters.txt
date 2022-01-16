@@ -2,6 +2,7 @@
 ! Expires: 1 day
 
 $removeparam=clid
+$removeparam=fbclid
 .ru/stat/?c=adsstat&cntr=narod
 .ru/stat/?c=commonstat&cntr=narod_000
 /analytic_watch.js
@@ -17,14 +18,7 @@ $removeparam=clid
 @@||glimmy.092918.xyz
 @@||lurkmore.so/images/$image
 acomics.ru##.gap
-amic.ru##.detail-main__article-news
-amic.ru##.fleft.mbten.share
-amic.ru##.imghcontainer
-amic.ru##.insider
-amic.ru##.notifications
-amic.ru##.nouser
-amic.ru##.sidebar
-amic.ru##.style3
+anilibria.tv##.header
 ap22.ru##.Recbanner
 askubuntu.com##.js-consent-banner
 bbc.com##.e1nbsi9l0
@@ -36,6 +30,7 @@ consultant.ru##.smcx-opaque
 context.reverso.net###register-popup-bottom
 cosmo.ru##.disclame_block
 cyberleninka.ru###notification-persist
+darklibria.it###support_anilibria
 darkpony.space###TB_window
 darkpony.space##.TB_overlayBG
 dtf.ru##.push_offer--shown
@@ -45,6 +40,7 @@ fanfics.me###banner_read_bottom_728x90
 fanfics.me###banner_read_top_728x90
 fanfics.me##.rekl
 fedportal.ru###push
+ficbook.net##.chapter-info .line-link
 ficbook.net##.comment_footer .d-inline-block
 ficbook.net##.disclamer
 ficbook.net##.discount
@@ -57,6 +53,7 @@ ficbook.net$removeparam=premiumVisit
 ficbook.net$removeparam=source
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
+fimfiction.net##.sponsor-reminder
 fimfiction.net##div[data-ad-class]
 forbes.ru##.shares
 garant.ru##.popup-social
@@ -67,6 +64,7 @@ habr.com##.tm-editoral-subscription
 habr.com##.tm-most-reading-block__label
 habr.com##.tm-most-reading-block__promo-post
 habr.com##.tm-project-block
+habr.com##a[href^="https://selectel.ru/"]
 hh.ru##.saved-search-subscription-wrapper
 interfax.ru##.bss__wrap
 iprbookshop.ru###privacy-policy
@@ -105,6 +103,7 @@ novayagazeta.ru##.QECK7
 ntv.ru###newplayer
 ntv.ru##.dTextPadding
 old.reactor.cc##.uhead_share
+opennet.ru##[src="/avatar/a37f4f07c8f64e4ea2c982474aee5207.jpg"]:upward(4)
 pastebin.com###abrpm
 pastebin.com###abrpm3
 pastebin.com###float-box-frame
@@ -141,6 +140,7 @@ ru.semrush.com###sem-limit-popup-overlay
 ru.semrush.com###sem-user-limit-popup-container
 russian.rt.com##.article__share
 russian.rt.com##.header__social
+science.org##.alert-donation
 sciencedirect.com##.ReactModal__Overlay--after-open
 securitylab.ru###BottomSocial
 securitylab.ru##.eupopup-color-default
@@ -173,6 +173,8 @@ xn--80aesfpebagmfblc0a.xn--p1ai##.cv-cookie-banner
 xnxx.com###video-ad
 xnxx.com###x-fda-messages
 xvideos.com###video-ad
+yandex.ru###zen
+yandex.ru##.ImagesViewerApp-FooterContent
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-pause-overlay
 youtube.com$removeparam=feature
@@ -245,8 +247,6 @@ youtube.com$removeparam=feature
 ||facebook.com/plugins/
 ||facebook.net/ru_RU/all.js
 ||fb2bookdownload.ru^
-||ficbook.net/apple-touch-icon
-||ficbook.net/favicon
 ||ficbook.net/service-worker.js
 ||ficbook.net/user_metrics/
 ||fonts.w.tools/css
