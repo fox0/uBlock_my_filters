@@ -3,6 +3,11 @@
 
 $removeparam=clid
 $removeparam=fbclid
+$removeparam=utm_campaign
+$removeparam=utm_content
+$removeparam=utm_medium
+$removeparam=utm_source
+$removeparam=utm_term
 .ru/stat/?c=adsstat&cntr=narod
 .ru/stat/?c=commonstat&cntr=narod_000
 /analytic_watch.js
@@ -23,6 +28,8 @@ ap22.ru##.Recbanner
 askubuntu.com##.js-consent-banner
 bbc.com##.e1nbsi9l0
 boosty.to##.GdprOffer_block_1n-uo
+change.org$removeparam=recruited_by_id
+change.org$removeparam=recruiter
 com-x.life##.createAvatarFromComix
 com-x.life##.footer-comments-area
 com-x.life##.read_full_com
@@ -40,6 +47,7 @@ fanfics.me###banner_read_bottom_728x90
 fanfics.me###banner_read_top_728x90
 fanfics.me##.rekl
 fedportal.ru###push
+ficbook.net###footer
 ficbook.net##.chapter-info .line-link
 ficbook.net##.comment_footer .d-inline-block
 ficbook.net##.disclamer
@@ -58,13 +66,20 @@ fimfiction.net##div[data-ad-class]
 forbes.ru##.shares
 garant.ru##.popup-social
 graph.facebook.com/
-grilnica.ru##.cook_panel
+habr.com##.tm-article-feed-blocks
 habr.com##.tm-company-widgets
 habr.com##.tm-editoral-subscription
+habr.com##.tm-feature_variant-inline
 habr.com##.tm-most-reading-block__label
 habr.com##.tm-most-reading-block__promo-post
 habr.com##.tm-project-block
+habr.com##.tm-promo-block__content-wrapper
+habr.com##.tm-promo-post-link
+habr.com##.tm-promo-post-link_appearance-most-reading
+habr.com##.tm-top-link
+habr.com##[href^="http://ruvds.com"]
 habr.com##a[href^="https://selectel.ru/"]
+habr.com##li.tm-article-list-block__item:nth-of-type(6)
 hh.ru##.saved-search-subscription-wrapper
 interfax.ru##.bss__wrap
 iprbookshop.ru###privacy-policy
@@ -85,6 +100,7 @@ lingvolive.com##._2Ne26
 linuxconfig.org##.ckcontent
 livejournal.com##.discoverytimes-noiframe
 livejournal.com##div[id^="yandex_direct_"]
+mail.yandex.ru##.b-direct-stripe
 manga-chan.me##[href^="https://www.youtube.com/watch"]
 medialeaks.ru##.profit-btn
 medium.com##.butterBar-message
@@ -104,13 +120,12 @@ ntv.ru###newplayer
 ntv.ru##.dTextPadding
 old.reactor.cc##.uhead_share
 opennet.ru##[src="/avatar/a37f4f07c8f64e4ea2c982474aee5207.jpg"]:upward(4)
+oracle-patches.com###sp-header
 pastebin.com###abrpm
 pastebin.com###abrpm3
 pastebin.com###float-box-frame
 pastebin.com##.-cookies.popup-box
 pastebin.com##.-pro.popup-box
-peervideo.net##.privacy-concerns
-pikabu.ru/ajax/save_visited_stories.php
 pochta.ru##.header__business-tooltip
 pochta.ru##.oprosso-widget
 popmech.ru##.disclame_block
@@ -156,12 +171,6 @@ tass.ru##.social-news-buttons
 text.ru##.social_block
 theguardian.com##.site-message--permanent
 tjournal.ru##.push_offer--shown
-tolknews.ru##.b-news_aggr
-tolknews.ru##.b-partners
-tolknews.ru##.inject-long
-tolknews.ru##.js-sticky
-tolknews.ru##.main_picture
-topuniversities.com###sliding-popup
 tproger.ru###tproger_ads_widget-4
 translate.google.com##.notification-area
 tutorialspoint.com###privacy-banner
@@ -169,10 +178,6 @@ vasilisc.com###AVh2PM7
 vaughn.live##.MvnAbvsLowerThirdWrapper
 vault.mle.party##.privacy-concerns
 wordpress.com###eu-cookie-law
-xn--80aesfpebagmfblc0a.xn--p1ai##.cv-cookie-banner
-xnxx.com###video-ad
-xnxx.com###x-fda-messages
-xvideos.com###video-ad
 yandex.ru###zen
 yandex.ru##.ImagesViewerApp-FooterContent
 youtube.com##.ytp-ce-element
@@ -184,7 +189,6 @@ youtube.com$removeparam=feature
 ||7pisem.ru^
 ||acomics.ru/design/common/pic/UcdZnM85.gif
 ||ad-delivery.net^
-||ad.amic.ru^
 ||ad.mail.ru^
 ||adfox.ru^$important
 ||adschoom.com^
@@ -323,8 +327,6 @@ youtube.com$removeparam=feature
 ||rambler.ru/api/$3p
 ||ranobehub.org/api/user/
 ||rcmjs.rambler.ru^$3p
-||reactor.cc/images/default_avatar.jpeg
-||reactor.cc/pics/avatar/user/
 ||relap.io^
 ||ria.ru/polling
 ||rlrt.ru^
@@ -332,7 +334,6 @@ youtube.com$removeparam=feature
 ||ruinfo.in^
 ||rum-reflector.ngenix.net^
 ||rum.ngenix.net^
-||rupython.com^
 ||rwpypf.com^
 ||search-app.auto.ru^$3p
 ||share.pluso.ru^
@@ -353,13 +354,11 @@ youtube.com$removeparam=feature
 ||stats2.ficbook.net^
 ||strm.yandex.ru/log/
 ||strm.yandex.ru/perf
-||thebestgame2020.com^
 ||tiktok.com/embed.js
 ||timer.lingualeo.com/track
 ||tinkoff.ru^$3p
 ||tiranator.com/cont/splitter.php?img$image
 ||tjournal.ru^$websocket
-||tolknews.ru/news/hit/
 ||top.gamedev.ru^
 ||top100.rambler.ru^
 ||top100.ru^
