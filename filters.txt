@@ -6,8 +6,10 @@ $removeparam=fbclid
 $removeparam=utm_campaign
 $removeparam=utm_content
 $removeparam=utm_medium
+$removeparam=utm_referrer
 $removeparam=utm_source
 $removeparam=utm_term
+$removeparam=ysclid
 .ru/stat/?c=adsstat&cntr=narod
 .ru/stat/?c=commonstat&cntr=narod_000
 /analytic_watch.js
@@ -20,6 +22,7 @@ $removeparam=utm_term
 /wp-content/plugins/share-buttons/
 /wp-content/plugins/ulogin/
 2gis.ru##._nlniiu
+2x2tv.ru##.sidebar-wrapper
 @@||glimmy.092918.xyz
 @@||lurkmore.so/images/$image
 acomics.ru##.gap
@@ -40,6 +43,7 @@ cyberleninka.ru###notification-persist
 darklibria.it###support_anilibria
 darkpony.space###TB_window
 darkpony.space##.TB_overlayBG
+derpibooru.org###imagespns
 dtf.ru##.push_offer--shown
 dw.com##.cookie
 equestriadaily.com##.cookie-choices-info
@@ -54,7 +58,9 @@ ficbook.net##.chapter-info .line-link
 ficbook.net##.comment_footer .d-inline-block
 ficbook.net##.disclamer
 ficbook.net##.discount
+ficbook.net##.discount-sticky-container
 ficbook.net##.header-holder
+ficbook.net##.profile-header-buttons
 ficbook.net##.share-buttons
 ficbook.net##.smile-picker
 ficbook.net##.social-bottom
@@ -67,6 +73,7 @@ fimfiction.net##.sponsor-reminder
 fimfiction.net##div[data-ad-class]
 forbes.ru##.shares
 garant.ru##.popup-social
+gdeposylka.ru##.fa-sync:upward(1)
 graph.facebook.com/
 habr.com##.tm-company-article__company-card 
 habr.com##.tm-company-basic-info:upward(2)
@@ -79,9 +86,14 @@ habr.com##.tm-promo-block__content-wrapper:upward(2)
 habr.com##.tm-promo-post-link:upward(1)
 habr.com##.tm-top-link
 habr.com##.tm-vacancies-block__item:upward(2)
+habr.com##a[href^="https://cloud.timeweb.com/"]
+habr.com##a[href^="https://promo.selectel.ru/"]
+habr.com##a[href^="https://selectel.ru/"]
+habr.com##a[href^="https://slc.tl/"]
 hh.ru##.saved-search-subscription-wrapper
 interfax.ru##.bss__wrap
 iprbookshop.ru###privacy-policy
+javarush.ru##.cookie-consent__content
 joyreactor.cc,reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 jsfiddle.net###keep-us-running
 kommersant.ru##.basement_news
@@ -134,6 +146,8 @@ pravo.moe##.poloski-bottom
 pvs-studio.com##.personal-data-confirm
 pypi.org##.notification-bar--fundraiser
 rbc.ru##.article__inline-item
+rbc.ru##.is-not-sticky
+rbc.ru##.js-push-allow
 rbc.ru##.pro-anons
 rbc.ru##.subscription-popup
 rbc.ru##.topline__video-block
@@ -156,6 +170,9 @@ ru.semrush.com###sem-limit-popup-overlay
 ru.semrush.com###sem-user-limit-popup-container
 russian.rt.com##.article__share
 russian.rt.com##.header__social
+rutube.ru##.wdp-carousel-module__carousel
+rutube.ru##button[action="nextSeek"]
+rutube.ru##button[action="prevSeek"]
 science.org##.alert-donation
 sciencedirect.com##.ReactModal__Overlay--after-open
 securitylab.ru###BottomSocial
@@ -179,10 +196,19 @@ tutorialspoint.com###privacy-banner
 vasilisc.com###AVh2PM7
 vaughn.live##.MvnAbvsLowerThirdWrapper
 vault.mle.party##.privacy-concerns
+wikipedia.org###ca-ve-edit
+wikipedia.org##.ext-quick-survey-single-answer
+wikipedia.org##.mw-editsection-divider
+wikipedia.org##.mw-editsection-visualeditor
 wordpress.com###eu-cookie-law
 xn--80aesfpebagmfblc0a.xn--p1ai##.cv-cookie-banner
 yandex.ru###zen
 yandex.ru##.ImagesViewerApp-FooterContent
+yandex.ru##.i-zalogin-cookie
+yandex.ru##.market-cart__box
+yandex.ru##.promo-popup__content
+yandex.ru##.promo-popup__tail
+yandex.ru##.yaplus__link
 yiffer.xyz##.dyingAndPaidImgContainer
 yiffer.xyz##.triangle-label:has-text(/^AD$/):upward(4)
 yiffer.xyz##a > video
@@ -249,12 +275,15 @@ youtube.com$removeparam=feature
 ||cse.google.com^$domain=cyberforum.ru
 ||d.d1tracker.ru^
 ||darkpony.space/?wpcw=message&
+||derpicdn.net/spns/$image
 ||developers.rambler.ru/likes/
 ||discordapp.com/api/guilds/*/widget.json
 ||discordapp.com/widget$3p
 ||docs.cntd.ru/general/images/asme.jpg
 ||dxcxbbj3cqqnes.ru^
 ||effect.habr.com/api/
+||everypony.ru/api/box.svg
+||everypony.ru/api/money.svg
 ||facebook.com/connect/
 ||facebook.com/plugins/
 ||facebook.net/ru_RU/all.js
@@ -295,6 +324,7 @@ youtube.com$removeparam=feature
 ||likemore-go.imgsmail.ru^
 ||linkedin.com/in.js
 ||livejournal.com/log
+||log.rutube.ru/player_events/
 ||loginza.ru/js/widget
 ||maaxiid.pro^$3p
 ||mail.ru/js/share/
@@ -335,7 +365,6 @@ youtube.com$removeparam=feature
 ||rambler.ru/api/$3p
 ||ranobehub.org/api/user/
 ||rcmjs.rambler.ru^$3p
-||reactor.cc/pics/avatar/user/$image
 ||relap.io^
 ||ria.ru/polling
 ||rlrt.ru^
@@ -343,6 +372,7 @@ youtube.com$removeparam=feature
 ||ruinfo.in^
 ||rum-reflector.ngenix.net^
 ||rum.ngenix.net^
+||russianblogs.com^
 ||rwpypf.com^
 ||search-app.auto.ru^$3p
 ||share.pluso.ru^
@@ -406,7 +436,6 @@ youtube.com$removeparam=feature
 ||youtube.com/error_204
 ||youtube.com/notifications_ajax
 ||youtube.com/service_ajax
-||youtube.com/shorts/$document
 ||youtube.com/subscribe_widget
 ||youtube.com/youtubei/v1/log_event
 ||ysa-static.passport.yandex.ru^$3p
