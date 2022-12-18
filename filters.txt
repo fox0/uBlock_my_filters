@@ -1,5 +1,5 @@
 ! Title: My uBlock filters
-! Expires: 1 day
+! Expires: 14 day
 
 $removeparam=clid
 $removeparam=fbclid
@@ -59,12 +59,15 @@ ficbook.net##.comment_footer .d-inline-block
 ficbook.net##.disclamer
 ficbook.net##.discount
 ficbook.net##.discount-sticky-container
+ficbook.net##.fake-create-bookmark-button
 ficbook.net##.header-holder
+ficbook.net##.premium-descriptions
 ficbook.net##.profile-header-buttons
 ficbook.net##.share-buttons
 ficbook.net##.smile-picker
 ficbook.net##.social-bottom
 ficbook.net##.social-top
+ficbook.net##.sticky-bottom-block
 ficbook.net$removeparam=premiumVisit
 ficbook.net$removeparam=source
 fimfiction.net##.advert.right
@@ -84,8 +87,10 @@ habr.com##.tm-feature
 habr.com##.tm-project-block
 habr.com##.tm-promo-block__content-wrapper:upward(2)
 habr.com##.tm-promo-post-link:upward(1)
+habr.com##.tm-stories-block
 habr.com##.tm-top-link
 habr.com##.tm-vacancies-block__item:upward(2)
+habr.com##a[href^="http://ruvds.com/"]
 habr.com##a[href^="https://cloud.timeweb.com/"]
 habr.com##a[href^="https://promo.selectel.ru/"]
 habr.com##a[href^="https://selectel.ru/"]
@@ -126,6 +131,7 @@ mintmanga.live,readmanga.live##.control-hint
 mintmanga.live,readmanga.live,librebook.me,mose.live###noty_bottomLeft_layout_container
 mk.ru###push-alert-block
 msdn.microsoft.com##.stdr-vote
+nhentai.net##.advertisement
 novayagazeta.ru##.QECK7
 ntv.ru###newplayer
 ntv.ru##.dTextPadding
@@ -202,13 +208,6 @@ wikipedia.org##.mw-editsection-divider
 wikipedia.org##.mw-editsection-visualeditor
 wordpress.com###eu-cookie-law
 xn--80aesfpebagmfblc0a.xn--p1ai##.cv-cookie-banner
-yandex.ru###zen
-yandex.ru##.ImagesViewerApp-FooterContent
-yandex.ru##.i-zalogin-cookie
-yandex.ru##.market-cart__box
-yandex.ru##.promo-popup__content
-yandex.ru##.promo-popup__tail
-yandex.ru##.yaplus__link
 yiffer.xyz##.dyingAndPaidImgContainer
 yiffer.xyz##.triangle-label:has-text(/^AD$/):upward(4)
 yiffer.xyz##a > video
@@ -217,8 +216,6 @@ youtube.com##.ytp-pause-overlay
 youtube.com##a[href^="/shorts/"]:upward(3)
 youtube.com##ytd-shelf-renderer
 youtube.com$removeparam=feature
-||2gis.ru/_/log
-||2gis.ru/log
 ||3dnews.ru/track
 ||7pisem.ru^
 ||acomics.ru/design/common/pic/UcdZnM85.gif
@@ -281,6 +278,7 @@ youtube.com$removeparam=feature
 ||discordapp.com/widget$3p
 ||docs.cntd.ru/general/images/asme.jpg
 ||dxcxbbj3cqqnes.ru^
+||dzen.ru^
 ||effect.habr.com/api/
 ||everypony.ru/api/box.svg
 ||everypony.ru/api/money.svg
@@ -288,10 +286,10 @@ youtube.com$removeparam=feature
 ||facebook.com/plugins/
 ||facebook.net/ru_RU/all.js
 ||fb2bookdownload.ru^
-||ficbook.net/service-worker.js
-||ficbook.net/user_metrics/
+||ficbook.net/srv/statistics/
 ||fonts.w.tools/css
 ||forbidden.yota.ru^
+||gamesport.com^
 ||garant.ru/images/www/all/900x90.jpg
 ||garant.ru/images/www/all/promo_access.jpg
 ||google.com/buzz/api/button.js
@@ -300,9 +298,6 @@ youtube.com$removeparam=feature
 ||googlevideo.com/videogoodput
 ||grouple.co/external/hash
 ||gstatic.com/docs/common/cleardot.gif
-||habr.com/en/viewcount/
-||habr.com/img/px.gif
-||habr.com/ru/viewcount/
 ||herokuapp.com/socket.io/
 ||hh.ru/analytics
 ||hh.ru/jsbuild/HH/Social/Share
@@ -353,6 +348,7 @@ youtube.com$removeparam=feature
 ||play.google.com/_/PlayStoreUi/gen204/
 ||play.google.com/_/PlayStoreUi/jserror
 ||play.google.com/log
+||player.codes/rucdn/js/player/
 ||ponyfiction.org/analytics/
 ||ponyfiction.org/cache-test-2021-05
 ||ponyfiction.org/notifications/unread_count/
@@ -365,6 +361,7 @@ youtube.com$removeparam=feature
 ||rambler.ru/api/$3p
 ||ranobehub.org/api/user/
 ||rcmjs.rambler.ru^$3p
+||reddit.com/errors
 ||relap.io^
 ||ria.ru/polling
 ||rlrt.ru^
@@ -425,6 +422,8 @@ youtube.com$removeparam=feature
 ||win-now.co^
 ||worldoftanks.ru^
 ||xafhra.com^
+||xn--h1ajim.xn--p1ai^
+||xnxx.gold^
 ||yandex.ru/clck/
 ||yandex.ru/znatoki/recommender/dj/informer
 ||yandex.st/share/
