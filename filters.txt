@@ -24,7 +24,6 @@ $removeparam=ysclid
 2gis.ru##._nlniiu
 2x2tv.ru##.sidebar-wrapper
 @@||glimmy.092918.xyz
-@@||lurkmore.so/images/$image
 acomics.ru##.gap
 amic.ru##.fixed_social_links
 amic.ru##.header-bottom__side
@@ -59,7 +58,6 @@ fandom.com##.banner-notifications-placeholder
 fanfics.me###banner_read_bottom_728x90
 fanfics.me###banner_read_top_728x90
 fanfics.me##.rekl
-fedportal.ru###push
 ficbook.net###footer
 ficbook.net##.btn-on-book-background--premium
 ficbook.net##.chapter-info .line-link
@@ -77,6 +75,7 @@ ficbook.net##.smile-picker
 ficbook.net##.social-bottom
 ficbook.net##.social-top
 ficbook.net##.sticky-bottom-block
+ficbook.net##a[href$="/thanks-author-page"]
 ficbook.net$removeparam=premiumVisit
 ficbook.net$removeparam=source
 fimfiction.net##.advert.right
@@ -99,12 +98,10 @@ habr.com##.tm-promo-post-link:upward(1)
 habr.com##.tm-stories-block
 habr.com##.tm-top-link
 habr.com##.tm-vacancies-block__item:upward(2)
-habr.com##a[href^="https://cloud.timeweb.com/"]
-habr.com##a[href^="https://promo.selectel.ru/"]
 habr.com##a[href^="http://ruvds.com/"]
-habr.com##a[href^="https://ruvds.com/"]
 habr.com##a[href^="https://cloud.timeweb.com/"]
 habr.com##a[href^="https://promo.selectel.ru/"]
+habr.com##a[href^="https://ruvds.com/"]
 habr.com##a[href^="https://selectel.ru/"]
 habr.com##a[href^="https://slc.tl/"]
 hh.ru##.saved-search-subscription-wrapper
@@ -149,7 +146,6 @@ novayagazeta.ru##.QECK7
 ntv.ru###newplayer
 ntv.ru##.dTextPadding
 old.reactor.cc##.uhead_share
-opennet.ru##[src="/avatar/a37f4f07c8f64e4ea2c982474aee5207.jpg"]:upward(4)
 oracle-patches.com###sp-header
 pastebin.com###abrpm
 pastebin.com###abrpm3
@@ -167,6 +163,7 @@ pypi.org##.notification-bar--fundraiser
 rbc.ru##.article__inline-item
 rbc.ru##.is-not-sticky
 rbc.ru##.js-push-allow
+rbc.ru##.js-social-onboarding-link
 rbc.ru##.pro-anons
 rbc.ru##.subscription-popup
 rbc.ru##.topline__video-block
@@ -189,6 +186,7 @@ ru.semrush.com###sem-limit-popup-overlay
 ru.semrush.com###sem-user-limit-popup-container
 russian.rt.com##.article__share
 russian.rt.com##.header__social
+rutube.ru##.cookie-consent
 rutube.ru##.wdp-carousel-module__carousel
 rutube.ru##button[action="nextSeek"]
 rutube.ru##button[action="prevSeek"]
@@ -205,6 +203,7 @@ stackoverflow.com##.create-team-tooltip
 stackoverflow.com##.js-dismissable-hero
 tass.ru##.ng-scope.social
 tass.ru##.social-news-buttons
+tass.ru##[class^="Cookies_container__"]
 tass.ru##[class^="ExternalBlock_container"]
 tass.ru##[class^="ShareLinks_wrapper__"]
 tass.ru##[class^="tass_pkg_compact_wrapper"]
@@ -303,8 +302,6 @@ youtube.com$removeparam=feature
 ||docs.cntd.ru/general/images/asme.jpg
 ||dxcxbbj3cqqnes.ru^
 ||dzen.ru^
-||everypony.ru/api/box.svg
-||everypony.ru/api/money.svg
 ||facebook.com/connect/
 ||facebook.com/plugins/
 ||facebook.net/ru_RU/all.js
@@ -315,11 +312,13 @@ youtube.com$removeparam=feature
 ||gamesport.com^
 ||garant.ru/images/www/all/900x90.jpg
 ||garant.ru/images/www/all/promo_access.jpg
+||gonet-ads.com^
 ||google.com/buzz/api/button.js
 ||google.com/domainless/
 ||google.ru/domainless/
 ||googlevideo.com/videogoodput
 ||grouple.co/external/hash
+||gtrksmol.ru^
 ||herokuapp.com/socket.io/
 ||hh.ru/analytics
 ||hh.ru/jsbuild/HH/Social/Share
@@ -380,6 +379,7 @@ youtube.com$removeparam=feature
 ||ponyfiction.org/notifications/unread_count/
 ||portal-xiva.yandex.net^
 ||portal.mail.ru/NaviData
+||prog.world^
 ||promo-bc.com/promo.php
 ||qarchive.ru^
 ||r.analytic.press^
@@ -402,6 +402,7 @@ youtube.com$removeparam=feature
 ||search-app.auto.ru^$3p
 ||share.pluso.ru^
 ||share.yandex.ru^
+||sharethis.com^
 ||site.yandex.net^$important,domain=cyberforum.ru
 ||sntr.avito.ru^
 ||spb.kp.ru/ws
@@ -434,9 +435,11 @@ youtube.com$removeparam=feature
 ||translated.turbopages.org^
 ||twitch.tv/kraken/channels/*/ads/
 ||twitch.tv^$websocket
+||ubunlog.com/ru/
 ||ubuntu.fliplinux.com^
 ||ulogin.ru^$3p
 ||uptime-info.yandex.ru^
+||urank.ru^
 ||userapi.com/js/api/openapi.js
 ||vk.com/ads_rotate.php$important
 ||vk.com/errors.php
