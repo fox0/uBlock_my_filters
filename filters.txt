@@ -6,15 +6,12 @@ $removeparam=fbclid
 $removeparam=utm_campaign
 $removeparam=utm_content
 $removeparam=utm_medium
+$removeparam=utm_name
 $removeparam=utm_referrer
 $removeparam=utm_source
 $removeparam=utm_term
 $removeparam=ysclid
-.ru/stat/?c=adsstat&cntr=narod
-.ru/stat/?c=commonstat&cntr=narod_000
-/analytic_watch.js
 /lib/exe/indexer.php
-/openapi.js
 /w/extensions/Popups/resources/hovercard.svg
 /wp-admin/admin-ajax.php
 /wp-content/plugins/adhelper/
@@ -23,15 +20,16 @@ $removeparam=ysclid
 /wp-content/plugins/ulogin/
 2gis.ru##._nlniiu
 2x2tv.ru##.sidebar-wrapper
-@@||glimmy.092918.xyz
+acomics.ru##.footer-sponsor
 acomics.ru##.gap
+acomics.ru##.inner > div
 amic.ru##.fixed_social_links
 amic.ru##.header-bottom__side
 amic.ru##.inject
 amic.ru##.mt-3:contains(/Новости партнеров/)
 amic.ru##.share_and_comment
 amic.ru##header > .container
-anilibria.tv##.header
+anekdotov.net##.advert
 ap22.ru##.Recbanner
 askubuntu.com##.js-consent-banner
 bbc.com##.e1nbsi9l0
@@ -62,10 +60,15 @@ ficbook.net###footer
 ficbook.net##.btn-on-book-background--premium
 ficbook.net##.chapter-info .line-link
 ficbook.net##.comment_footer .d-inline-block
+ficbook.net##.copy-button:upward(1)
+ficbook.net##.disclaimer
 ficbook.net##.disclamer
 ficbook.net##.discount
 ficbook.net##.discount-sticky-container
 ficbook.net##.fake-create-bookmark-button
+ficbook.net##.fanfic-author-actions__column:contains(/Поделиться/)
+ficbook.net##.fanfic-author-actions__column:contains(/Продвижение/)
+ficbook.net##.ficfan-top-link
 ficbook.net##.header-holder
 ficbook.net##.premium-button
 ficbook.net##.premium-descriptions
@@ -76,6 +79,7 @@ ficbook.net##.social-bottom
 ficbook.net##.social-top
 ficbook.net##.sticky-bottom-block
 ficbook.net##a[href$="/thanks-author-page"]
+ficbook.net##section.js-fanfic-promo-carousel
 ficbook.net$removeparam=premiumVisit
 ficbook.net$removeparam=source
 fimfiction.net##.advert.right
@@ -84,8 +88,12 @@ fimfiction.net##.sponsor-reminder
 fimfiction.net##div[data-ad-class]
 forbes.ru##.shares
 garant.ru##.popup-social
+gdeposylka.ru##.alert-danger
 gdeposylka.ru##.fa-sync:upward(1)
+google.com$removeparam=aqs
 graph.facebook.com/
+habr.com###calendar_block_13
+habr.com##.tm-block_spacing-around.block.tm-block
 habr.com##.tm-company-article__company-card 
 habr.com##.tm-company-basic-info:upward(2)
 habr.com##.tm-company-widgets
@@ -108,6 +116,7 @@ hh.ru##.saved-search-subscription-wrapper
 interfax.ru##.bss__wrap
 interfax.ru##.popupNowReading
 iprbookshop.ru###privacy-policy
+izmt.ru###cookie-banner-wrapper
 javarush.ru##.cookie-consent__content
 joyreactor.cc,reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 jsfiddle.net###keep-us-running
@@ -141,12 +150,14 @@ mintmanga.live,readmanga.live##.control-hint
 mintmanga.live,readmanga.live,librebook.me,mose.live###noty_bottomLeft_layout_container
 mk.ru###push-alert-block
 msdn.microsoft.com##.stdr-vote
+news.mail.ru$removeparam=frommail
 nhentai.net##.advertisement
 novayagazeta.ru##.QECK7
 ntv.ru###newplayer
 ntv.ru##.dTextPadding
 old.reactor.cc##.uhead_share
 oracle-patches.com###sp-header
+ozon.ru##.hac2
 pastebin.com###abrpm
 pastebin.com###abrpm3
 pastebin.com###float-box-frame
@@ -188,8 +199,12 @@ russian.rt.com##.article__share
 russian.rt.com##.header__social
 rutube.ru##.cookie-consent
 rutube.ru##.wdp-carousel-module__carousel
+rutube.ru##[class^="rai_raichu-pause-recommendations__isVisible_"]
 rutube.ru##button[action="nextSeek"]
 rutube.ru##button[action="prevSeek"]
+rutube.ru##div.wdp-showcase-module__wdp-showcase:contains(/Shorts/)
+rutube.ru##div.wdp-showcase-module__wdp-showcase:contains(/Yappy/)
+rutube.ru##div.wdp-showcase-module__wdp-showcase:contains(/Смотрите премьеры/)
 science.org##.alert-donation
 sciencedirect.com##.ReactModal__Overlay--after-open
 securitylab.ru###BottomSocial
@@ -209,8 +224,14 @@ tass.ru##[class^="ShareLinks_wrapper__"]
 tass.ru##[class^="tass_pkg_compact_wrapper"]
 text.ru##.social_block
 text.rucont.ru##.download__icon_blue
+thatpervert.com##a[href^="https://t.affoth.com/"]
 theguardian.com##.site-message--permanent
 tjournal.ru##.push_offer--shown
+tolknews.ru##.b-news_aggr
+tolknews.ru##.inject-long
+tolknews.ru##.js-sticky
+tolknews.ru##.main_picture
+tolknews.ru##.related-news
 top-rf.ru##.Top-RF-recommend
 top-rf.ru##.ads
 tproger.ru###tproger_ads_widget-4
@@ -246,14 +267,17 @@ youtube.com$removeparam=feature
 ||adschoom.com^
 ||aemetrics.aliexpress.ru/v2/collect/
 ||aer-reasons.aliexpress.ru/bx-mixer-ssr
+||agapizogel.net^
 ||an.yandex.ru^$important
 ||andreymal.org/counter.png
 ||anekdot.ru/i/bg/
 ||antivirus-alarm.ru^
+||api.amic.ru/api/v1/advertising
 ||api.facebook.com^$3p
 ||api.flocktory.com^
 ||api.joyreactor.cc/graphql
 ||api.ozon.ru/tracker.bx/tracker/v0
+||api.vigo.one^ 
 ||apis.google.com/js/plusone.js
 ||appmetrica.yandex.com^
 ||appsmail.ru/share/
@@ -275,6 +299,7 @@ youtube.com$removeparam=feature
 ||career.ru/api/fl
 ||career.ru/stat
 ||cbr-xml-daily.ru^
+||cdn-st.ritm.media^ 
 ||cdn.api.twitter.com/1/urls/count.json
 ||cdn.cookielaw.org^
 ||cdn.iframe.ly/api/iframe
@@ -285,6 +310,7 @@ youtube.com$removeparam=feature
 ||cds.wargaming.net/api/$3p
 ||cnt.vvv.ru^
 ||cola.lingualeo.com/pixel
+||comicslate.org/lib/tpl/comicslate/yscript.js
 ||conceau.co^
 ||connect.facebook.net^
 ||connect.mail.ru/share_count
@@ -340,6 +366,7 @@ youtube.com$removeparam=feature
 ||likemore-fe.go.mail.ru^
 ||likemore-go.imgsmail.ru^
 ||linkedin.com/in.js
+||live-screencaps.vsmvideo.com^$3p
 ||livejournal.com/log
 ||log.rutube.ru/player_events/
 ||loginza.ru/js/widget
@@ -397,6 +424,7 @@ youtube.com$removeparam=feature
 ||rum-reflector.ngenix.net^
 ||rum.ngenix.net^
 ||russianblogs.com^
+||rutube.ru/pangolin/api/web/yappy/
 ||rwpypf.com^
 ||sbermegamarket.ru/api/mobile/v1/analyticsDataService/
 ||search-app.auto.ru^$3p
