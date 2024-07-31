@@ -13,6 +13,7 @@ ficbook.net,v1.ficbook.com,ficbook.me##.discount-sticky-container
 ficbook.net,v1.ficbook.com,ficbook.me##.fake-create-bookmark-button
 ficbook.net,v1.ficbook.com,ficbook.me##.fanfic-author-actions__column:contains(/Поделиться/)
 ficbook.net,v1.ficbook.com,ficbook.me##.fanfic-author-actions__column:contains(/Продвижение/)
+ficbook.net,v1.ficbook.com,ficbook.me##.fb-ads-block
 ficbook.net,v1.ficbook.com,ficbook.me##.ficfan-top-link
 ficbook.net,v1.ficbook.com,ficbook.me##.header-holder
 ficbook.net,v1.ficbook.com,ficbook.me##.premium-button
@@ -27,6 +28,9 @@ ficbook.net,v1.ficbook.com,ficbook.me##a[href$="/thanks-author-page"]
 ficbook.net,v1.ficbook.com,ficbook.me##section.js-fanfic-promo-carousel
 ficbook.net,v1.ficbook.com,ficbook.me$removeparam=premiumVisit
 ficbook.net,v1.ficbook.com,ficbook.me$removeparam=source
+||fbassets.teinon.net/assets/design/payment_icons/
+||fbassets.teinon.net/assets/dist/advertisement.*.js
+||ficbook.me/srv/statistics/
 ||ficbook.net/srv/statistics/
 ||static.ficbook.net/ficbook/assets/advertisement.*.js
 ||static.ficbook.net/ficbook/design/payment_icons/
