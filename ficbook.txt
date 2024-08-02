@@ -25,6 +25,8 @@ ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.social-bottom
 ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.social-top
 ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.sticky-bottom-block
 ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##a[href$="/thanks-author-page"]
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##article.rkn-banned-card > .card-content
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##article.rkn-banned-card > .card-cover
 ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##section.js-fanfic-promo-carousel
 ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1$removeparam=premiumVisit
 ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1$removeparam=source
