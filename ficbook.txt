@@ -1,33 +1,33 @@
 ! Title: ficbook filters
 ! Expires: 14 day
 
-ficbook.net,v1.ficbook.com,ficbook.me###footer
-ficbook.net,v1.ficbook.com,ficbook.me##.btn-on-book-background--premium
-ficbook.net,v1.ficbook.com,ficbook.me##.chapter-info .line-link
-ficbook.net,v1.ficbook.com,ficbook.me##.comment_footer .d-inline-block
-ficbook.net,v1.ficbook.com,ficbook.me##.copy-button:upward(1)
-ficbook.net,v1.ficbook.com,ficbook.me##.disclaimer
-ficbook.net,v1.ficbook.com,ficbook.me##.disclamer
-ficbook.net,v1.ficbook.com,ficbook.me##.discount
-ficbook.net,v1.ficbook.com,ficbook.me##.discount-sticky-container
-ficbook.net,v1.ficbook.com,ficbook.me##.fake-create-bookmark-button
-ficbook.net,v1.ficbook.com,ficbook.me##.fanfic-author-actions__column:contains(/Поделиться/)
-ficbook.net,v1.ficbook.com,ficbook.me##.fanfic-author-actions__column:contains(/Продвижение/)
-ficbook.net,v1.ficbook.com,ficbook.me##.fb-ads-block
-ficbook.net,v1.ficbook.com,ficbook.me##.ficfan-top-link
-ficbook.net,v1.ficbook.com,ficbook.me##.header-holder
-ficbook.net,v1.ficbook.com,ficbook.me##.premium-button
-ficbook.net,v1.ficbook.com,ficbook.me##.premium-descriptions
-ficbook.net,v1.ficbook.com,ficbook.me##.profile-header-buttons
-ficbook.net,v1.ficbook.com,ficbook.me##.share-buttons
-ficbook.net,v1.ficbook.com,ficbook.me##.smile-picker
-ficbook.net,v1.ficbook.com,ficbook.me##.social-bottom
-ficbook.net,v1.ficbook.com,ficbook.me##.social-top
-ficbook.net,v1.ficbook.com,ficbook.me##.sticky-bottom-block
-ficbook.net,v1.ficbook.com,ficbook.me##a[href$="/thanks-author-page"]
-ficbook.net,v1.ficbook.com,ficbook.me##section.js-fanfic-promo-carousel
-ficbook.net,v1.ficbook.com,ficbook.me$removeparam=premiumVisit
-ficbook.net,v1.ficbook.com,ficbook.me$removeparam=source
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1###footer
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.btn-on-book-background--premium
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.chapter-info .line-link
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.comment_footer .d-inline-block
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.copy-button:upward(1)
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.disclaimer
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.disclamer
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.discount
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.discount-sticky-container
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.fake-create-bookmark-button
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.fanfic-author-actions__column:contains(/Поделиться/)
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.fanfic-author-actions__column:contains(/Продвижение/)
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.fb-ads-block
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.ficfan-top-link
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.header-holder
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.premium-button
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.premium-descriptions
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.profile-header-buttons
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.share-buttons
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.smile-picker
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.social-bottom
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.social-top
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##.sticky-bottom-block
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##a[href$="/thanks-author-page"]
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1##section.js-fanfic-promo-carousel
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1$removeparam=premiumVisit
+ficbook.net,v1.ficbook.com,ficbook.me,127.0.0.1$removeparam=source
 ||fbassets.teinon.net/assets/design/payment_icons/
 ||fbassets.teinon.net/assets/dist/advertisement.*.js
 ||ficbook.me/srv/statistics/
