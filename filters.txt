@@ -94,7 +94,6 @@ interfax.ru##.popupNowReading
 iprbookshop.ru###privacy-policy
 izmt.ru###cookie-banner-wrapper
 javarush.ru##.cookie-consent__content
-joyreactor.cc,reactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 jsfiddle.net###keep-us-running
 kommersant.ru##.basement_news
 kommersant.ru##.important_news_popup
@@ -154,6 +153,8 @@ rbc.ru##.pro-anons
 rbc.ru##.subscription-popup
 rbc.ru##.topline__video-block
 rbc.ru##.video-autoplay-recommend
+reactor.cc##div[style="max-width: 300px; max-height: 800px; margin-bottom: 20px; height: 400px"]
+reactor.cc,joyreactor.cc##div[style="text-align: center; background-color: rgb(255, 255, 3);"]
 readcomiconline.to###adbWarnContainer
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(15)
 readcomiconline.to###containerRoot > div:nth-of-type(4) > div:nth-of-type(4)
@@ -174,9 +175,7 @@ russian.rt.com##.article__share
 russian.rt.com##.header__social
 rutube.ru##.cookie-consent
 rutube.ru##.wdp-carousel-module__carousel
-rutube.ru##[class^="rai_raichu-pause-recommendations__isVisible_"]
-rutube.ru##button[action="nextSeek"]
-rutube.ru##button[action="prevSeek"]
+rutube.ru##[class^="r__raichu-pause-recommendations-module__pauseRecsInner__"]
 rutube.ru##div.wdp-showcase-module__wdp-showcase:contains(/Shorts/)
 rutube.ru##div.wdp-showcase-module__wdp-showcase:contains(/Yappy/)
 rutube.ru##div.wdp-showcase-module__wdp-showcase:contains(/Смотрите премьеры/)
@@ -207,8 +206,8 @@ tolknews.ru##.inject-long
 tolknews.ru##.js-sticky
 tolknews.ru##.main_picture
 tolknews.ru##.related-news
-top-rf.ru##.Top-RF-recommend
 top-rf.ru##.ads
+top-rf.ru##.Top-RF-recommend
 tproger.ru###tproger_ads_widget-4
 translate.google.com##.notification-area
 tutorialspoint.com###privacy-banner
