@@ -18,8 +18,6 @@ $removeparam=ysclid
 /wp-content/plugins/loginza/
 /wp-content/plugins/share-buttons/
 /wp-content/plugins/ulogin/
-acomics.ru##.footer-sponsor
-acomics.ru##.gap
 askubuntu.com##.js-consent-banner
 bilibili.com##.bili-mini-mask
 com-x.life##.createAvatarFromComix
@@ -31,6 +29,7 @@ cyberleninka.ru###notification-persist
 darkpony.space###TB_window
 darkpony.space##.TB_overlayBG
 derpibooru.org###imagespns
+editor-next.swagger.io##.sb-modal-content
 equestriadaily.com##.cookie-choices-info
 fimfiction.net##.advert.right
 fimfiction.net##.patreon-reminder
@@ -45,6 +44,7 @@ habr.com##.tm-company-widgets
 habr.com##.tm-contribution-list:upward(2)
 habr.com##.tm-editoral-subscription
 habr.com##.tm-feature
+habr.com##.tm-header__become-author-btn
 habr.com##.tm-project-block
 habr.com##.tm-promo-block__content-wrapper:upward(2)
 habr.com##.tm-promo-post-link:upward(1)
@@ -52,6 +52,7 @@ habr.com##.tm-stories-block
 habr.com##.tm-top-link
 habr.com##.tm-vacancies-block__item:upward(2)
 javarush.ru##.cookie-consent__content
+journals.rcsi.science###cookieInformerBackground
 jsfiddle.net###keep-us-running
 livejournal.com##.discoverytimes-noiframe
 livejournal.com##div[id^="yandex_direct_"]
@@ -74,10 +75,13 @@ refactoring.guru##.ban
 rutube.ru##.application-module__additionalContent
 rutube.ru##.cookie-consent
 rutube.ru##.message-module__info.message-module__message
+rutube.ru##.premium-subscription-entrypoint-module__button-premium
 rutube.ru##.premium-subscription-entrypoint-module__desktop
+rutube.ru##.safe-mode-header-entrypoint-module__desktop
 rutube.ru##.safe-mode-header-entrypoint-module__entrypoint
 rutube.ru##.safe-mode-video-banner-module__banner
 rutube.ru##.wdp-carousel-module__carousel
+rutube.ru##.wdp-promo-button-module__wdpPromoButtonDesktop
 rutube.ru##[class^="pause-screen-module__pauseRecsBlock___"]
 rutube.ru##[class^="r__raichu-pause-recommendations-module__pauseRecsInner__"]
 rutube.ru##button[data-testid="ui-next-10sec"]
@@ -94,10 +98,9 @@ wikipedia.org###ca-ve-edit
 wikipedia.org##.ext-quick-survey-single-answer
 wikipedia.org##.mw-editsection-divider
 wikipedia.org##.mw-editsection-visualeditor
+www.youtube.com##ytm-shorts-lockup-view-model-v2
 ||3dnews.ru/track
 ||7pisem.ru^
-||acomics.ru/design/common/pic/UcdZnM85.gif
-||acomics.ru/design/images/aks-block-02.png
 ||ad-delivery.net^
 ||ad.mail.ru^
 ||adfox.ru^$important
@@ -122,6 +125,7 @@ wikipedia.org##.mw-editsection-visualeditor
 ||bbckdl.mfcewkrob.com^
 ||billing.ihor.ru^$3p
 ||block.runnet.ru^
+||blocked.mts.ru^
 ||bookap.info/img/top/
 ||c153yb4hps.ru^
 ||cackle.me/widget/*/count
@@ -200,6 +204,7 @@ wikipedia.org##.mw-editsection-visualeditor
 ||log.rutube.ru/player_events/
 ||loginza.ru/js/widget
 ||m.megafonpro.ru/block/
+||m.megafonpro.ru/rkn
 ||maaxiid.pro^$3p
 ||mail.ru/js/share/
 ||media-itartass.cdnvideo.ru/itartass/tass-loop-main.stream_480p/
