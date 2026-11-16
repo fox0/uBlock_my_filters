@@ -37,8 +37,11 @@ fimfiction.net##.sponsor-reminder
 fimfiction.net##div[data-ad-class]
 google.com$removeparam=aqs
 habr.com###calendar_block_13
+habr.com##.special-container
+habr.com##.sponsor-block
+habr.com##.stories
 habr.com##.tm-block_spacing-around.block.tm-block
-habr.com##.tm-company-article__company-card 
+habr.com##.tm-company-article__company-card
 habr.com##.tm-company-basic-info:upward(2)
 habr.com##.tm-company-widgets
 habr.com##.tm-contribution-list:upward(2)
